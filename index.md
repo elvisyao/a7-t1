@@ -35,7 +35,7 @@
 
   <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted"></video>
   
-  <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" data-canonical-src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
 - 2022/05/29 - 鋪設B4擋土支撐
 ![1653815903104](https://user-images.githubusercontent.com/19199144/173190985-bbd26b64-2dc7-43aa-adbd-711462f4fbe0.jpg)
