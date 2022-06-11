@@ -43,10 +43,8 @@
 
 - 2022/04/10 - 準備開挖B2
 ![220410](https://user-images.githubusercontent.com/19199144/173190746-bb1815d3-1eef-42b2-8821-c5db6fdef15b.JPG)
-
-  https://user-images.githubusercontent.com/19199144/173190787-73502158-7f70-44ed-a882-75cc20134fb0.mp4
   
-  <video src="https://user-images.githubusercontent.com/19199144/173190787-73502158-7f70-44ed-a882-75cc20134fb0.mp4"></video>
+  <video src="https://user-images.githubusercontent.com/19199144/173190787-73502158-7f70-44ed-a882-75cc20134fb0.mp4" controls="controls" muted="muted"></video>
 
 - 2022/03/04 - 續開挖B1
 ![220304](https://user-images.githubusercontent.com/19199144/173190644-fbbc9eb5-a3ee-4027-9536-aaea97eda3f9.JPG)
