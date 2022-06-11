@@ -3,6 +3,11 @@
 此頁面為彙整A7玄泰T1已購戶群友提供資料與影像紀錄, 目的為提供已購戶工程進度更新,  
 若有資料錯誤, 或版權相關議題, 或違反任何法規事項, 請再告知並做後續處理, 感謝!
 
+
+### 相關連結
+
+- [玄泰T1官方網頁](https://xn--t1-p81ep4v.com/)
+- [玄泰T1臉書](https://www.facebook.com/skybluev1)
 - [玄泰T1-定型化契約](http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf)
 - [內政部不動產交易實價查詢服務網](https://lvr.land.moi.gov.tw/)
 
