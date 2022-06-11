@@ -3,6 +3,9 @@
 此頁面為A7玄泰T1已購戶群友提供資料與影像紀錄, 並彙整於此, 目的為提供已購戶工程進度更新,  
 若有呈現資料的不妥, 或版權相關議題, 或違反任何法規事項, 請再告知並做撤下處理, 感謝!
 
+- 玄泰T1-定型化契約 (內政部不動產交易實價查詢服務網 https://lvr.land.moi.gov.tw/ )  
+http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf
+
 ---
 ### 預期進度(代銷提供)
 
@@ -18,7 +21,11 @@
 - [ ] 2026/Q1 交屋
 
 ---
-### 工程進度照片紀錄
+### 實價登錄紀錄
+- 2022/06/11 (共402筆/總戶數595戶)
+
+---
+### 工程進度影像紀錄
 
 - 2022/06/10 - 現場已有鋼筋/管線進駐
 ![1654860261087](https://user-images.githubusercontent.com/19199144/173191201-20d5b66d-a803-4f47-a2b4-e3cd69db75a9.jpg)
@@ -26,12 +33,12 @@
 
 - 2022/06/09 - 開挖B4中 (或已B5層? 待確認)
 
-  https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4
+  <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted"></video>
 
 - 2022/05/29 - 鋪設B4擋土支撐
 ![1653815903104](https://user-images.githubusercontent.com/19199144/173190985-bbd26b64-2dc7-43aa-adbd-711462f4fbe0.jpg)
-
-  https://user-images.githubusercontent.com/19199144/173191038-70482384-3ead-4fc7-96a1-2e20de8b31c1.mp4
+  
+  <video src="https://user-images.githubusercontent.com/19199144/173191038-70482384-3ead-4fc7-96a1-2e20de8b31c1.mp4" controls="controls" muted="muted"></video>
 
 - 2022/05/14 - 開挖B3中
 ![1652510884776](https://user-images.githubusercontent.com/19199144/173190949-db737122-413f-4dba-8590-f2e882929d8d.jpg)
@@ -39,7 +46,7 @@
 - 2022/05/10 - 準備開挖B3
 ![220510](https://user-images.githubusercontent.com/19199144/173190889-7b9e8e84-efff-4101-b764-5006cb0822cb.JPG)
 
-  https://user-images.githubusercontent.com/19199144/173190924-4874a59b-0d48-4696-8623-8de95fcbf29d.mp4
+  <video src="https://user-images.githubusercontent.com/19199144/173190924-4874a59b-0d48-4696-8623-8de95fcbf29d.mp4" controls="controls" muted="muted"></video>
 
 - 2022/04/10 - 準備開挖B2
 ![220410](https://user-images.githubusercontent.com/19199144/173190746-bb1815d3-1eef-42b2-8821-c5db6fdef15b.JPG)
