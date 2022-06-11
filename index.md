@@ -7,12 +7,15 @@
 
 地下層支撐工程B4(或B5)
 
-### 相關連結
+### 相關連結資訊
 
 - [玄泰T1-官方網頁](https://xn--t1-p81ep4v.com/)
 - [玄泰T1-臉書](https://www.facebook.com/skybluev1)
 - [玄泰T1-定型化契約](http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf)
 - [內政部不動產交易實價查詢服務網](https://lvr.land.moi.gov.tw/)
+- [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/#) -> 群泰開發有限公司-66561333 -> 玄泰T1-5297
+- 建商預售款信託帳戶  
+![image](https://user-images.githubusercontent.com/19199144/173193745-52354ba0-40e3-4780-b4b1-e996453218f0.png)
 
 ---
 ### 預期進度(代銷提供)
