@@ -33,14 +33,12 @@
 
 - 2022/06/09 - 開挖B4中 (或B5層? 待確認)
 
-  <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted"></video>
-  
-  <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+  <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:480px;">
 
 - 2022/05/29 - 鋪設B4擋土支撐
 ![1653815903104](https://user-images.githubusercontent.com/19199144/173190985-bbd26b64-2dc7-43aa-adbd-711462f4fbe0.jpg)
   
-  <video src="https://user-images.githubusercontent.com/19199144/173191038-70482384-3ead-4fc7-96a1-2e20de8b31c1.mp4" controls="controls" muted="muted"></video>
+  <video src="https://user-images.githubusercontent.com/19199144/173191038-70482384-3ead-4fc7-96a1-2e20de8b31c1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:480px;"></video>
 
 - 2022/05/14 - 開挖B3中
 ![1652510884776](https://user-images.githubusercontent.com/19199144/173190949-db737122-413f-4dba-8590-f2e882929d8d.jpg)
@@ -48,12 +46,12 @@
 - 2022/05/10 - 準備開挖B3
 ![220510](https://user-images.githubusercontent.com/19199144/173190889-7b9e8e84-efff-4101-b764-5006cb0822cb.JPG)
 
-  <video src="https://user-images.githubusercontent.com/19199144/173190924-4874a59b-0d48-4696-8623-8de95fcbf29d.mp4" controls="controls" muted="muted"></video>
+  <video src="https://user-images.githubusercontent.com/19199144/173190924-4874a59b-0d48-4696-8623-8de95fcbf29d.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:480px;"></video>
 
 - 2022/04/10 - 準備開挖B2
 ![220410](https://user-images.githubusercontent.com/19199144/173190746-bb1815d3-1eef-42b2-8821-c5db6fdef15b.JPG)
   
-  <video src="https://user-images.githubusercontent.com/19199144/173190787-73502158-7f70-44ed-a882-75cc20134fb0.mp4" controls="controls" muted="muted"></video>
+  <video src="https://user-images.githubusercontent.com/19199144/173190787-73502158-7f70-44ed-a882-75cc20134fb0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:480px;"></video>
 
 - 2022/03/04 - 續開挖B1
 ![220304](https://user-images.githubusercontent.com/19199144/173190644-fbbc9eb5-a3ee-4027-9536-aaea97eda3f9.JPG)
