@@ -1,19 +1,23 @@
 ## 玄泰T1 (非官方) 工程進度更新
 
-此頁面為彙整A7玄泰T1已購戶群鄰居們提供資料與影像紀錄, 目的為提供已購戶工程進度資訊.  
+此頁面為彙整**A7玄泰T1已購戶群**鄰居們提供資料與影像紀錄, 目的為提供已購戶工程進度資訊.  
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
+---
 ### 目前進度 (2022/06/11)
 
 地下層施作 - 支撐工程B4(或B5)
 
+---
 ### 相關資訊連結
 
-- [玄泰T1-官方網頁](https://xn--t1-p81ep4v.com/)
-- [玄泰T1-臉書](https://www.facebook.com/skybluev1)
-- [看屋筆記：桃園市龜山區玄泰T1(個案+價格分析)](https://www.leju.com.tw/page_blog/view/1514)
-- [桃園龜山A7重劃區 - 2022最新4K空拍包含50個以上建案AR完整標注版本-2022年5月14日](https://www.youtube.com/watch?v=eP6UPeBpiyY)
-- [玄泰T1-定型化契約](http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf)
+![image](https://user-images.githubusercontent.com/19199144/173211411-1cfb379b-e9f7-4bbb-ac01-abcb3636377e.png)
+
+- [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
+- [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
+- [看屋筆記：桃園市龜山區玄泰T1 (個案+價格分析)](https://www.leju.com.tw/page_blog/view/1514)
+- [桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本-2022年5月14日](https://www.youtube.com/watch?v=eP6UPeBpiyY)
+- [玄泰T1 - 定型化契約](http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf)
 - [內政部不動產交易實價查詢服務網](https://lvr.land.moi.gov.tw/)
 - [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/#) -> 群泰開發有限公司-66561333 -> 玄泰T1-5297
 - 建商預售款信託帳戶  
@@ -23,7 +27,7 @@
 ### 預期進度
 
  代銷提供預估版本:
-- [x]  2021/12/12 開工 (訂簽開 = 總價10%)
+- [x]  2021/12 開工(2022/12/12) (訂簽開 = 總價10%)
 - [ ]  2022/12 一樓底板 (工程款 = 總價3%)
 - [ ]  2023/05 八樓底板 (工程款 = 總價3%)
 - [ ]  2023/10 十六樓底板 (工程款 = 總價3%)
