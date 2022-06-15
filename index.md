@@ -19,7 +19,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
-  * [桃園 A7 生活圈巡覽 郵政物流 | 樂善國小 | 文青國小 | 中央商業區 | 體育大學 | 樂善一路 | 文學路 - 2022年6月13日](https://www.youtube.com/watch?v=elOZuzxCOUo)
+  * [桃園 A7 生活圈巡覽 - 2022年6月13日](https://www.youtube.com/watch?v=elOZuzxCOUo)
   * [桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本 - 2022年5月14日](https://www.youtube.com/watch?v=eP6UPeBpiyY)
 
 - 樂居
