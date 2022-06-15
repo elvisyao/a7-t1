@@ -19,8 +19,8 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
-  * [桃園 A7 生活圈巡覽 - 2022年6月13日](https://www.youtube.com/watch?v=elOZuzxCOUo)
-  * [桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本 - 2022年5月14日](https://www.youtube.com/watch?v=eP6UPeBpiyY)
+  * [2202/06/13 - 桃園 A7 生活圈巡覽](https://www.youtube.com/watch?v=elOZuzxCOUo)
+  * [2202/05/14 - 桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本](https://www.youtube.com/watch?v=eP6UPeBpiyY)
 
 - 樂居
   * [看屋筆記：桃園市龜山區玄泰T1 (個案+價格分析)](https://www.leju.com.tw/page_blog/view/1514)
