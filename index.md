@@ -11,16 +11,25 @@
 ---
 ### 相關資訊連結
 
+- 周邊建案地圖
 ![image](https://user-images.githubusercontent.com/19199144/173211411-1cfb379b-e9f7-4bbb-ac01-abcb3636377e.png)
 
-- [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
-- [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
-- [看屋筆記：桃園市龜山區玄泰T1 (個案+價格分析)](https://www.leju.com.tw/page_blog/view/1514)
-- [桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本-2022年5月14日](https://www.youtube.com/watch?v=eP6UPeBpiyY)
-- [玄泰T1 - 定型化契約](http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf)
-- [內政部不動產交易實價查詢服務網](https://lvr.land.moi.gov.tw/)
-- [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/#) -> 群泰開發有限公司-66561333 -> 玄泰T1-5297
-- 建商預售款信託帳戶  
+- 玄泰T1官方頁面
+  * [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
+  * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
+
+- Youtube 空拍畫面
+  * [桃園 A7 生活圈巡覽 郵政物流 | 樂善國小 | 文青國小 | 中央商業區 | 體育大學 | 樂善一路 | 文學路 - 2022年6月13日](https://www.youtube.com/watch?v=elOZuzxCOUo)
+  * [桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本 - 2022年5月14日](https://www.youtube.com/watch?v=eP6UPeBpiyY)
+
+- 樂居
+  * [看屋筆記：桃園市龜山區玄泰T1 (個案+價格分析)](https://www.leju.com.tw/page_blog/view/1514)
+
+- 工程期所需文件與連結
+  * [玄泰T1 - 定型化契約](http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf)
+  * [內政部不動產交易實價查詢服務網](https://lvr.land.moi.gov.tw/)
+  * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/#) -> 群泰開發有限公司-66561333 -> 玄泰T1-5297
+  * 建商預售款信託帳戶  
 ![image](https://user-images.githubusercontent.com/19199144/173193745-52354ba0-40e3-4780-b4b1-e996453218f0.png)
 
 ---
