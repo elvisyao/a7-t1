@@ -53,6 +53,10 @@
 ---
 ### 工程進度影像紀錄
 
+- 2022/06/18 - 空拍畫面
+![image](https://user-images.githubusercontent.com/19199144/174489050-7fa67bf4-b00b-4e7c-a823-a73a94e266a5.png)
+![image](https://user-images.githubusercontent.com/19199144/174489076-1d40e8d4-4a5c-4cdc-9b1c-cbe0ffb4fbf7.png)
+
 - 2022/06/17 - 現場鋼筋模板進駐中/B5層挖掘中
 ![image](https://user-images.githubusercontent.com/19199144/174262531-ce3fe1a5-429d-4aa5-9f88-c60900ef7320.png)
 
