@@ -11,8 +11,11 @@
 ---
 ### 相關資訊連結
 
-- 周邊建案地圖
+- 周邊建案地圖  
 ![image](https://user-images.githubusercontent.com/19199144/173211411-1cfb379b-e9f7-4bbb-ac01-abcb3636377e.png)
+- 地籍套繪  
+![image](https://user-images.githubusercontent.com/19199144/174489422-ec979d57-7944-40bf-91c1-924682fcf6f8.png)
+
 
 - 玄泰T1官方頁面
   * [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
