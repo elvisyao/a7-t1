@@ -64,6 +64,8 @@
 - 2202/06/24 - B5支撐工程結束, 怪手退場, 鋼筋進駐
 ![image](https://user-images.githubusercontent.com/19199144/175549552-8b3ecbdc-2145-4387-b834-89ac5bc78b22.png)
 
+  <video src="https://user-images.githubusercontent.com/19199144/175551114-69e3f14c-88a4-48fb-a086-437f7e7b13c9.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2022/06/18 - 空拍畫面
 ![image](https://user-images.githubusercontent.com/19199144/174489050-7fa67bf4-b00b-4e7c-a823-a73a94e266a5.png)
 ![image](https://user-images.githubusercontent.com/19199144/174489076-1d40e8d4-4a5c-4cdc-9b1c-cbe0ffb4fbf7.png)
