@@ -77,7 +77,7 @@
 ![1654860261087](https://user-images.githubusercontent.com/19199144/173191201-20d5b66d-a803-4f47-a2b4-e3cd69db75a9.jpg)
 ![1654860261198](https://user-images.githubusercontent.com/19199144/173191203-173934a3-2b78-4821-b782-4a74ef11d904.jpg)
 
-- 2022/06/09 - 開挖B4中 (或B5層? 待確認)
+- 2022/06/09 - 開挖B5中
 
   <video src="https://user-images.githubusercontent.com/19199144/173188246-0f75097e-b3f3-4665-a741-0765df5a89e0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
