@@ -65,6 +65,8 @@
 ![image](https://user-images.githubusercontent.com/19199144/176064103-d51aec37-92b0-4438-9990-42207ea19d31.png)
 ![image](https://user-images.githubusercontent.com/19199144/176064216-a8705ded-489c-4f4b-b0ee-2e065ada2af8.png)
 
+  <video src="https://user-images.githubusercontent.com/19199144/176094058-b05ce7ad-9d9b-4c99-ba82-a91b1f32b417.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2202/06/26 - 支撐工程結束
 
   <video src="https://user-images.githubusercontent.com/19199144/175815379-c05271a5-b45d-492e-86b9-9cf8cc30c06c.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
