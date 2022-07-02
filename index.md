@@ -12,7 +12,8 @@
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![image](https://user-images.githubusercontent.com/19199144/173211411-1cfb379b-e9f7-4bbb-ac01-abcb3636377e.png)
+![image](https://user-images.githubusercontent.com/19199144/177001031-6b2530b0-1e5a-4776-9535-3c099d6eab9b.png)
+
 - 地籍套繪  
 ![image](https://user-images.githubusercontent.com/19199144/174489422-ec979d57-7944-40bf-91c1-924682fcf6f8.png)
 
@@ -36,7 +37,7 @@
 ![image](https://user-images.githubusercontent.com/19199144/173193745-52354ba0-40e3-4780-b4b1-e996453218f0.png)
 
 ---
-### 預期進度
+### 進度時程
 
  代銷提供預估版本:
 - [x]  2021/12 開工 (訂簽開 = 總價10%)
