@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/07/21)
+### 目前進度 (2022/07/25)
 
-地下層施作: FS層灌漿/綁地樑鋼筋
+地下層施作: 地樑混凝土澆置
 
 ---
 ### 相關資訊連結
@@ -23,6 +23,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
+  * [2202/07/24 - A7重劃區-富宇哈佛苑、文青國中小](https://youtu.be/PXgAQDm0zu0)
   * [2202/07/03 - A7重劃區-富宇哈佛苑、文青國中小](https://youtu.be/5JpY_WhzSb0)
   * [2202/06/13 - 桃園 A7 生活圈巡覽](https://www.youtube.com/watch?v=elOZuzxCOUo)
   * [2202/05/14 - 桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本](https://www.youtube.com/watch?v=eP6UPeBpiyY)
@@ -65,6 +66,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2202/07/25 - 地樑混凝土澆置
+![image](https://user-images.githubusercontent.com/19199144/180679773-625da556-6f79-4e8f-8ec0-058e5aab79fa.png)
+![image](https://user-images.githubusercontent.com/19199144/180679805-4864927b-9c5a-417e-bfcb-47efaf44d651.png)
 
 - 2202/07/21 - FS層灌漿
 ![image](https://user-images.githubusercontent.com/19199144/180105840-f9dbcdc8-0840-46d2-8dec-9cc5e27d88d8.png)
