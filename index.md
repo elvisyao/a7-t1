@@ -23,6 +23,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
+  * [2022/08/08 - A7重劃區-強哥空拍](https://youtu.be/9pQCrL-2pZw)
   * [2202/07/24 - A7重劃區-富宇哈佛苑、文青國中小](https://youtu.be/PXgAQDm0zu0)
   * [2202/07/03 - A7重劃區-富宇哈佛苑、文青國中小](https://youtu.be/5JpY_WhzSb0)
   * [2202/06/13 - 桃園 A7 生活圈巡覽](https://www.youtube.com/watch?v=elOZuzxCOUo)
