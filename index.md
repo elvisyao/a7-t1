@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/08/04)
+### 目前進度 (2022/08/10)
 
-地下層施作: BS層(筏基水箱蓋)
+地下層施作: BS層(筏基水箱蓋)混凝土養護
 
 ---
 ### 相關資訊連結
@@ -29,8 +29,10 @@
   * [2202/06/13 - 桃園 A7 生活圈巡覽](https://www.youtube.com/watch?v=elOZuzxCOUo)
   * [2202/05/14 - 桃園龜山A7重劃區-2022最新4K空拍包含50個以上建案AR完整標注版本](https://www.youtube.com/watch?v=eP6UPeBpiyY)
 
-- 樂居
-  * [看屋筆記：桃園市龜山區玄泰T1 (個案+價格分析)](https://www.leju.com.tw/page_blog/view/1514)
+- 其他連結
+  * [樂居-看屋筆記：桃園市龜山區玄泰T1 (個案+價格分析)](https://www.leju.com.tw/page_blog/view/1514)
+  * [樂居-玄泰T1](https://www.leju.com.tw/community_map?oid=L310119033a6c4f)
+  * [591-玄泰T1](https://market.591.com.tw/3699548)
 
 - 工程期所需文件與連結
   * [玄泰T1 - 定型化契約](http://210.65.138.96/T11/REMARK/G2H011009090002-00/%E6%8E%9B%E7%B6%B2(%E7%B6%A0)1007%E7%8E%84%E6%B3%B0T1%E9%A0%90%E5%94%AE%E6%88%BF%E5%9C%B0_removed_removed_removed.pdf)
@@ -65,6 +67,7 @@
 
 ---
 ### 實價登錄紀錄
+- 2022/08/11 (共413筆/總戶數595戶) (69%)
 - 2022/08/01 (共411筆/總戶數595戶) (69%)
 - 2022/07/21 (共410筆/總戶數595戶) (69%)
 - 2022/07/11 (共405筆/總戶數595戶) (68%)
@@ -74,6 +77,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2202/08/10 -  BS層(筏基水箱蓋)混凝土養護
+
+  <video src="https://user-images.githubusercontent.com/19199144/184044326-c7568795-47c2-4c06-87f8-903af421e222.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
 - 2202/08/04 -  BS層(筏基水箱蓋)混凝土澆置
 
