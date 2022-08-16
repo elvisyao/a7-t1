@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/08/10)
+### 目前進度 (2022/08/12)
 
-地下層施作: BS層(筏基水箱蓋)混凝土養護
+地下層施作: 第四撐拆撐
 
 ---
 ### 相關資訊連結
@@ -51,7 +51,7 @@
   - [x]  2022/06/28 筏基PC層
   - [x]  2202/07/15 筏基FS層
   - [x]  2022/08/04 筏基BS層(水箱蓋)
-  - [ ]  ?? 第四撐拆撐
+  - [x]  2022/08/12 第四撐拆撐
   - [ ]  ?? B5F柱筋綁紮
   - [ ]  ?? B4F底版組模
 - [ ]  2023/02 一樓底板, 開始地上體結構工程 (工程款 = 總價3%)
@@ -78,12 +78,14 @@
 ---
 ### 工程進度影像紀錄
 
+- 2202/08/12 -  第四撐拆撐  
+![image](https://user-images.githubusercontent.com/19199144/184759244-9f84811a-d1a7-43b6-a6ee-7ff0dc3845de.png)
+
 - 2202/08/10 -  BS層(筏基水箱蓋)混凝土養護
 
   <video src="https://user-images.githubusercontent.com/19199144/184044326-c7568795-47c2-4c06-87f8-903af421e222.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
 - 2202/08/04 -  BS層(筏基水箱蓋)混凝土澆置
-
 ![image](https://user-images.githubusercontent.com/19199144/182754325-f6ddeaa5-0e15-4f2e-b1f4-af0321e41a71.png)
 
 - 2202/07/25 - 地樑混凝土澆置
