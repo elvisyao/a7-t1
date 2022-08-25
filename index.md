@@ -79,24 +79,24 @@
 ---
 ### 工程進度影像紀錄
 
-- 2202/08/25 - B5F施作, 模板角材進駐
+- 2022/08/25 - B5F施作, 模板角材進駐
 ![image](https://user-images.githubusercontent.com/19199144/186547275-5a8fd5d3-08f6-4601-a3e6-6950032d7d6d.png)
 
-- 2202/08/12 - 第四撐拆撐  
+- 2022/08/12 - 第四撐拆撐  
 ![image](https://user-images.githubusercontent.com/19199144/184759244-9f84811a-d1a7-43b6-a6ee-7ff0dc3845de.png)
 
-- 2202/08/10 - BS層(筏基水箱蓋)混凝土養護
+- 2022/08/10 - BS層(筏基水箱蓋)混凝土養護
 
   <video src="https://user-images.githubusercontent.com/19199144/184044326-c7568795-47c2-4c06-87f8-903af421e222.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2202/08/04 - BS層(筏基水箱蓋)混凝土澆置
+- 2022/08/04 - BS層(筏基水箱蓋)混凝土澆置
 ![image](https://user-images.githubusercontent.com/19199144/182754325-f6ddeaa5-0e15-4f2e-b1f4-af0321e41a71.png)
 
-- 2202/07/25 - 地樑混凝土澆置
+- 2022/07/25 - 地樑混凝土澆置
 ![image](https://user-images.githubusercontent.com/19199144/180679773-625da556-6f79-4e8f-8ec0-058e5aab79fa.png)
 ![image](https://user-images.githubusercontent.com/19199144/180679805-4864927b-9c5a-417e-bfcb-47efaf44d651.png)
 
-- 2202/07/21 - FS層灌漿
+- 2022/07/21 - FS層灌漿
 ![image](https://user-images.githubusercontent.com/19199144/180105840-f9dbcdc8-0840-46d2-8dec-9cc5e27d88d8.png)
 
 - 2202/07/15 - FS層/綁地樑鋼筋
