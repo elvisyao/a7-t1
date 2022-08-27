@@ -4,15 +4,15 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/08/25)
+### 目前進度 (2022/08/27)
 
-地下層施作: B5F層施作
+地下層施作: B5F層施作 - 車道灌漿
 
 ---
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![image](https://user-images.githubusercontent.com/19199144/177001031-6b2530b0-1e5a-4776-9535-3c099d6eab9b.png)
+![177001031-6b2530b0-1e5a-4776-9535-3c099d6eab9b](https://user-images.githubusercontent.com/19199144/187020695-3061a3d5-84f7-46ab-ac39-8c1bd54feede.png)
 
 - 地籍套繪  
 ![image](https://user-images.githubusercontent.com/19199144/174489422-ec979d57-7944-40bf-91c1-924682fcf6f8.png)
@@ -78,6 +78,9 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2022/08/27 - B5F施作, 車道灌漿
+![image](https://user-images.githubusercontent.com/19199144/187020744-1c13822e-379c-4409-a355-2abdbe196faf.png)
 
 - 2022/08/25 - B5F施作, 模板角材進駐
 ![image](https://user-images.githubusercontent.com/19199144/186547275-5a8fd5d3-08f6-4601-a3e6-6950032d7d6d.png)
