@@ -70,6 +70,7 @@
 
 ---
 ### 實價登錄紀錄 (總戶數595戶)
+- 2022/09/11 (共439筆) (74%)
 - 2022/09/01 (共429筆) (72%)
 - 2022/08/21 (共422筆) (71%)
 - 2022/08/11 (共413筆) (69%)
@@ -82,6 +83,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2022/09/10 - B5F施作, B4F層板綁筋
+![image](https://user-images.githubusercontent.com/19199144/189507602-b2844f5c-9274-47c3-a19c-b2a795b1e455.png)
+![image](https://user-images.githubusercontent.com/19199144/189507625-ab0fe173-beb6-4ea2-a334-9a9089a2e552.png)
+![image](https://user-images.githubusercontent.com/19199144/189507637-256e78a4-32be-46d1-a15c-e28b7c4a7433.png)
 
 - 2022/08/27 - B5F施作, 車道灌漿
 ![image](https://user-images.githubusercontent.com/19199144/187020744-1c13822e-379c-4409-a355-2abdbe196faf.png)
