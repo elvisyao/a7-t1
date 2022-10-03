@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/09/25)
+### 目前進度 (2022/10/03)
 
-地下層施作: B4F施作
+地下層施作: B4F施作, B3FL組模
 
 (2022/09/24: 1F~3F已通知預約客變)
 
@@ -17,8 +17,7 @@
 ![177001031-6b2530b0-1e5a-4776-9535-3c099d6eab9b](https://user-images.githubusercontent.com/19199144/187020695-3061a3d5-84f7-46ab-ac39-8c1bd54feede.png)
 
 - 地籍套繪  
-![image](https://user-images.githubusercontent.com/19199144/174489422-ec979d57-7944-40bf-91c1-924682fcf6f8.png)
-
+![image](https://user-images.githubusercontent.com/19199144/193489706-20d414a0-972b-4263-bebd-73f12fa09f5a.png)
 
 - 玄泰T1官方頁面
   * [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
@@ -95,6 +94,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2022/10/02 - B4F施作, B3FL組模
+![image](https://user-images.githubusercontent.com/19199144/193489993-f60e169c-95b4-4942-951d-19c4a5bea51d.png)
+![image](https://user-images.githubusercontent.com/19199144/193490053-b91e172d-229e-4960-809f-07292c00dcc4.png)
 
 - 2022/09/20 - 第三撐拆撐
 ![image](https://user-images.githubusercontent.com/19199144/191155975-9fdc871d-39c3-4e02-8306-3f055361e2de.png)
