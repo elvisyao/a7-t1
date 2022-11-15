@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/11/02更新)
+### 目前進度 (2022/11/15更新)
 
-地下層施作: B3F施作
+地下層施作: B3F施作, B2FL灌漿
 
 ---
 ### 相關資訊連結
@@ -54,7 +54,7 @@
   - [x]  2022/09/14 B5F施作完成
   - [x]  2022/09/20 第三撐拆撐
   - [x]  2022/10/18 B4F施作完成
-  - [ ]  ?? B3F施作完成
+  - [x]  2022/11/15 B3F施作完成
   - [ ]  ?? 第二撐拆撐
   - [ ]  ?? B2F施作完成
   - [ ]  ?? 第一撐拆撐
@@ -97,8 +97,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2022/11/15 - B2FL灌漿  
+  ![image](https://user-images.githubusercontent.com/19199144/201812748-641dff2f-cc9e-4243-b341-9c4ab991fdae.png)
 
-- 2022/11/02 - B3F灌漿
+- 2022/11/02 - B3F施作
 
   <video src="https://user-images.githubusercontent.com/19199144/199370832-add5633d-a42f-42fe-9152-a9d5660731e5.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
