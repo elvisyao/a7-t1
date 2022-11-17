@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/11/15更新)
+### 目前進度 (2022/11/17更新)
 
-地下層施作: B3F施作, B2FL灌漿
+地下層施作: B2FL養護
 
 ---
 ### 相關資訊連結
@@ -97,6 +97,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2022/11/17 - B2FL養護
+
+  <video src="https://user-images.githubusercontent.com/19199144/202425468-738ca21f-abd5-4006-9b4f-61cf901f55c2.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2022/11/15 - B2FL灌漿  
   ![image](https://user-images.githubusercontent.com/19199144/201812748-641dff2f-cc9e-4243-b341-9c4ab991fdae.png)
 
