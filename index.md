@@ -22,6 +22,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
+  * [2022/11/27 - A7重劃區-文青雙語國中小](https://youtu.be/-qYt6NcRXcc)
   * [2022/09/16 - 桃園龜山A7重劃區-2022Q3最新4K空拍+文青國中小](https://youtu.be/CV09erP68aQ)
   * [2022/08/08 - A7重劃區-強哥空拍](https://youtu.be/9pQCrL-2pZw)
   * [2202/07/24 - A7重劃區-富宇哈佛苑、文青國中小](https://youtu.be/PXgAQDm0zu0)
