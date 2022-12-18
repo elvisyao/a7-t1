@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/12/07更新)
+### 目前進度 (2022/12/18更新)
 
-地下層施作: B2F施作中, B2F圍牆灌漿
+地下層施作: B1LF施作中
 
 ---
 ### 相關資訊連結
@@ -102,6 +102,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2022/12/18 - B1LF施作中
+
+  <video src="https://user-images.githubusercontent.com/19199144/208300455-990f7bff-edc6-47fb-8fb9-bef5ac9cb730.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2022/12/07 - B2F圍牆灌漿
 ![image](https://user-images.githubusercontent.com/19199144/206225026-78dd97fc-0221-4ad1-8901-306463302b4d.png)
 
