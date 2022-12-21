@@ -102,6 +102,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2022/12/20 - B1FL灌漿
+
+  <video src="https://user-images.githubusercontent.com/19199144/208805096-316c889a-8a9a-4b4a-af3b-f79fcc3edbde.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2022/12/20 - B1FL灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/208556179-e490f6a8-187f-4bf9-9527-43fa226fb564.png)
   
