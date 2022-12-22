@@ -73,9 +73,9 @@
 ---
 ### 工程款繳費進度
 
-  * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/#) -> 群泰開發有限公司-66561333 -> 玄泰T1-5297
   * 建商預售款信託帳戶  
 ![image](https://user-images.githubusercontent.com/19199144/173193745-52354ba0-40e3-4780-b4b1-e996453218f0.png)
+  * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/#) -> 群泰開發有限公司-66561333 -> 玄泰T1-5297
     * 繳款人代碼: 身分證後八碼
 
 - [x]  2021/12 訂簽開 10%
