@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/12/20更新)
+### 目前進度 (2022/12/26更新)
 
-地下層施作: B1LF灌漿
+地下層施作: 第一撐拆撐
 
 ---
 ### 相關資訊連結
@@ -22,6 +22,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
+  * [2022/12/25 - A7重劃區-強哥空拍](https://youtu.be/_J_SUmD1GSo)
   * [2022/11/27 - A7重劃區-文青雙語國中小](https://youtu.be/-qYt6NcRXcc)
   * [2022/09/16 - 桃園龜山A7重劃區-2022Q3最新4K空拍+文青國中小](https://youtu.be/CV09erP68aQ)
   * [2022/08/08 - A7重劃區-強哥空拍](https://youtu.be/9pQCrL-2pZw)
@@ -56,7 +57,7 @@
   - [x]  2022/11/17 B3F施作完成
   - [x]  2022/11/22 第二撐拆撐
   - [x]  2022/12/20 B2F施作完成
-  - [ ]  ?? 第一撐拆撐
+  - [X]  2022/12/26 第一撐拆撐
   - [ ]  ?? B1F施作完成
   - [ ]  ?? 鋼軌樁拆除
 - [ ]  2023/03 一樓底板, 開始地上體結構工程
@@ -119,6 +120,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2022/12/26 - 第一撐拆撐  
+![image](https://user-images.githubusercontent.com/19199144/209554742-ed28fef9-1bb0-4a21-9372-ac9c9131ba98.png)
+![image](https://user-images.githubusercontent.com/19199144/209554768-51e6bcac-6bf7-4a8c-8919-934abe2af5b0.png)
+
 - 2022/12/20 - B1FL灌漿
 
   <video src="https://user-images.githubusercontent.com/19199144/208805096-316c889a-8a9a-4b4a-af3b-f79fcc3edbde.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
