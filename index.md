@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/12/26更新)
+### 目前進度 (2022/12/31更新)
 
-地下層施作: 第一撐拆撐
+地下層施作: B1F施作
 
 ---
 ### 相關資訊連結
@@ -120,6 +120,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2022/12/31 - B1F施作  
+![image](https://user-images.githubusercontent.com/19199144/210124658-cf0b9e95-b4d6-4095-b5bf-e20446accf5b.png)
+![image](https://user-images.githubusercontent.com/19199144/210124677-45c7bc29-cc31-4b7b-a4e6-3319724619ae.png)
+
 - 2022/12/26 - 第一撐拆撐  
 ![image](https://user-images.githubusercontent.com/19199144/209554742-ed28fef9-1bb0-4a21-9372-ac9c9131ba98.png)
 ![image](https://user-images.githubusercontent.com/19199144/209554768-51e6bcac-6bf7-4a8c-8919-934abe2af5b0.png)
