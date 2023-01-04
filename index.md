@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2022/12/31更新)
+### 目前進度 (2023/01/04更新)
 
 地下層施作: B1F施作
 
@@ -121,6 +121,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/01/03 - B1F施作(source: https://youtu.be/Cy3J_esJvyc)  
+![image](https://user-images.githubusercontent.com/19199144/210470996-96c1dc63-afed-4feb-87d3-682c06cbebac.png)
+![image](https://user-images.githubusercontent.com/19199144/210471060-12c53ddd-afee-46e2-9158-1e82d53f63b6.png)
+
 
 - 2022/12/31 - B1F施作  
 ![image](https://user-images.githubusercontent.com/19199144/210124658-cf0b9e95-b4d6-4095-b5bf-e20446accf5b.png)
