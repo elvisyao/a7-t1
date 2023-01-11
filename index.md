@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/01/04更新)
+### 目前進度 (2023/01/11更新)
 
-地下層施作: B1F施作
+地下層施作: B1F施作 - 圍牆灌漿
 
 ---
 ### 相關資訊連結
@@ -97,6 +97,7 @@
 
 ---
 ### 實價登錄紀錄 (總戶數595戶)
+- 2023/01/11 (共507筆) (86%)
 - 2023/01/01 (共504筆) (85%)
 - 2022/12/21 (共500筆) (84%)
 - 2022/12/11 (共500筆) (84%)
@@ -121,8 +122,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/01/10 - B1F施作 - 圍牆灌漿  
+![image](https://user-images.githubusercontent.com/19199144/211689486-674b9e51-7ea7-4fd8-905b-3f4a61b37336.png)
 
-- 2023/01/03 - B1F施作(source: https://youtu.be/Cy3J_esJvyc)  
+- 2023/01/03 - B1F施作([source](https://youtu.be/Cy3J_esJvyc))  
 ![image](https://user-images.githubusercontent.com/19199144/210470996-96c1dc63-afed-4feb-87d3-682c06cbebac.png)
 ![image](https://user-images.githubusercontent.com/19199144/210471060-12c53ddd-afee-46e2-9158-1e82d53f63b6.png)
 
