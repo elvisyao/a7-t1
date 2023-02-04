@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/01/11更新)
+### 目前進度 (2023/02/04更新)
 
-地下層施作: B1F施作 - 圍牆灌漿
+地下層施作: 1FL施作
 
 ---
 ### 相關資訊連結
@@ -124,6 +124,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/02/04 - 1FL 模板施作  
+ ![image](https://user-images.githubusercontent.com/19199144/216754732-881672c4-079d-46c0-8285-07424fd0217d.png)
+  <video src="https://user-images.githubusercontent.com/19199144/216754708-ce77d072-33b9-4142-b7e2-5d3edf76fb60.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2023/01/10 - B1F施作 - 圍牆灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/211689486-674b9e51-7ea7-4fd8-905b-3f4a61b37336.png)
 
