@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/02/15更新)
+### 目前進度 (2023/02/21更新)
 
 地下層施作: 1FL施作
 
@@ -97,6 +97,7 @@
 
 ---
 ### 實價登錄紀錄 (總戶數595戶)
+- 2023/02/21 (共514筆) (86%)
 - 2023/02/11 (共513筆) (86%)
 - 2023/02/01 (共510筆) (86%)
 - 2023/01/21 (共510筆) (86%)
@@ -125,6 +126,11 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/02/20 - 1FL 鋼筋綁紮施作  
+![image](https://user-images.githubusercontent.com/19199144/220218981-3e4f71d6-1ef3-4a1c-a4af-1cf6a679be0a.png)
+![image](https://user-images.githubusercontent.com/19199144/220219352-c4eee0d3-1dfe-4399-9495-726aba715fe9.png)
+![image](https://user-images.githubusercontent.com/19199144/220219609-afc3b60e-b82e-4cf3-947d-e8a1032cf295.png)
+
 - 2023/02/14 - 1FL 模板施作  
 
   <video src="https://user-images.githubusercontent.com/19199144/219023875-17c87742-f6f4-4c1c-a747-ebf36da09492.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
