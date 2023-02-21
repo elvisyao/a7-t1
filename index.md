@@ -6,7 +6,7 @@
 ---
 ### 目前進度 (2023/02/21更新)
 
-地下層施作: 1FL施作
+地下層施作: 1FL 灌漿
 
 ---
 ### 相關資訊連結
@@ -58,7 +58,7 @@
   - [x]  2022/11/22 第二撐拆撐
   - [x]  2022/12/20 B2F施作完成
   - [x]  2022/12/26 第一撐拆撐
-  - [ ]  ?? B1F施作完成
+  - [x]  2023/02/21 B1F施作完成
   - [ ]  ?? 鋼軌樁拆除
 - [ ]  2023/03 一樓底板, 開始地上體結構工程
 - [ ]  2023/09 八樓底板
@@ -126,6 +126,11 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/02/21 - 1FL 灌漿  
+![image](https://user-images.githubusercontent.com/19199144/220234929-9bb7c0e9-00c4-4cf5-85b0-4f351cc017ec.png)
+![image](https://user-images.githubusercontent.com/19199144/220234885-55f29027-d280-44e3-89e6-8deb0d5ef8a2.png)
+![image](https://user-images.githubusercontent.com/19199144/220234959-829b950a-2201-47db-a9dc-c475d423ecbe.png)
+
 - 2023/02/20 - 1FL 鋼筋綁紮施作  
 ![image](https://user-images.githubusercontent.com/19199144/220218981-3e4f71d6-1ef3-4a1c-a4af-1cf6a679be0a.png)
 ![image](https://user-images.githubusercontent.com/19199144/220219352-c4eee0d3-1dfe-4399-9495-726aba715fe9.png)
