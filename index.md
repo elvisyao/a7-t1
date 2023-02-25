@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/02/21更新)
+### 目前進度 (2023/02/25更新)
 
-地下層施作: 1FL 灌漿
+地下層施作: 1FL 鋼軌樁拆除整地
 
 ---
 ### 相關資訊連結
@@ -126,6 +126,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/02/25 - 1FL 鋼軌樁拆除整地  
+
+  <video src="https://user-images.githubusercontent.com/19199144/221358870-9a930816-55d2-41ab-918b-37549c957107.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2023/02/21 - 1FL 灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/220234929-9bb7c0e9-00c4-4cf5-85b0-4f351cc017ec.png)
 ![image](https://user-images.githubusercontent.com/19199144/220234885-55f29027-d280-44e3-89e6-8deb0d5ef8a2.png)
