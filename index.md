@@ -137,6 +137,7 @@
 ---
 ### 工程進度影像紀錄
 - 2023/03/19 -  1FL 鋼筋綁紮中  
+![image](https://user-images.githubusercontent.com/19199144/226157155-44eb1855-31e7-41c6-b3bc-5e9abe2916bb.png)
 ![image](https://user-images.githubusercontent.com/19199144/226157086-84c2f112-324a-47df-8dfa-d1a41fef593e.png)
 ![image](https://user-images.githubusercontent.com/19199144/226157092-a75b455c-2114-4ec4-af1e-572cb64504bd.png)
 ![image](https://user-images.githubusercontent.com/19199144/226157097-bb850aaf-068f-488f-99ae-e7b5d7ba5d6b.png)
