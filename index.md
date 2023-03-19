@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/03/11更新)
+### 目前進度 (2023/03/19更新)
 
 - 1FL 鋼筋綁紮中
 
@@ -136,6 +136,11 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/03/19 -  1FL 鋼筋綁紮中  
+![image](https://user-images.githubusercontent.com/19199144/226157086-84c2f112-324a-47df-8dfa-d1a41fef593e.png)
+![image](https://user-images.githubusercontent.com/19199144/226157092-a75b455c-2114-4ec4-af1e-572cb64504bd.png)
+![image](https://user-images.githubusercontent.com/19199144/226157097-bb850aaf-068f-488f-99ae-e7b5d7ba5d6b.png)
+
 - 2023/03/11 - 鋼軌樁拆除完成  
 
   <video src="https://user-images.githubusercontent.com/19199144/224457481-7b3d6ef8-0faf-47f3-9506-274ef359ffab.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
