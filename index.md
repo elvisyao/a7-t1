@@ -137,7 +137,7 @@
 
 ---
 ### 工程進度影像紀錄
-- 2023/03/19 -  1FL 組模中  
+- 2023/03/26 -  1FL 組模中  
 
   <video src="https://user-images.githubusercontent.com/19199144/227754973-137883a1-7f11-4354-b464-fe9db504ee97.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
