@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/03/19更新)
+### 目前進度 (2023/03/26更新)
 
-- 1FL 鋼筋綁紮中
+- 1FL 組模中
 
 ---
 ### 相關資訊連結
@@ -137,6 +137,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/03/19 -  1FL 組模中  
+
+  <video src="https://user-images.githubusercontent.com/19199144/227754973-137883a1-7f11-4354-b464-fe9db504ee97.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2023/03/19 -  1FL 鋼筋綁紮中  
 ![image](https://user-images.githubusercontent.com/19199144/226157155-44eb1855-31e7-41c6-b3bc-5e9abe2916bb.png)
 ![image](https://user-images.githubusercontent.com/19199144/226157086-84c2f112-324a-47df-8dfa-d1a41fef593e.png)
