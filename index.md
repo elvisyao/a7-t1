@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/03/26更新)
+### 目前進度 (2023/04/02更新)
 
-- 1FL 組模中
+- 2FL 底板施作
 
 ---
 ### 相關資訊連結
@@ -138,6 +138,10 @@
 
 ---
 ### 工程進度影像紀錄
+- 2023/04/02 -  2FL 底板施作  
+
+  <video src="https://user-images.githubusercontent.com/19199144/229325155-e60058e0-3f6d-41f0-999f-b0215d017c47.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2023/03/26 -  1FL 組模中  
 
   <video src="https://user-images.githubusercontent.com/19199144/227754973-137883a1-7f11-4354-b464-fe9db504ee97.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
