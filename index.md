@@ -139,7 +139,7 @@
 
 ---
 ### 工程進度影像紀錄
-- 2023/04/02 -  2FL 底板灌漿  
+- 2023/04/12 -  2FL 底板灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/231354782-7b578a26-d825-4e36-bc2e-36f464bdca24.png)
 ![image](https://user-images.githubusercontent.com/19199144/231354886-add3c417-63fb-4a34-8fd9-37e7401c9289.png)
 
