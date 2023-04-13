@@ -6,7 +6,7 @@
 ---
 ### 目前進度 (2023/04/12更新)
 
-- 2FL 底板灌漿
+- 1FL 夾層灌漿
 
 ---
 ### 相關資訊連結
@@ -62,13 +62,14 @@
   - [x]  2023/02/21 B1F施作完成
 - [x]  2023/03 一樓底板, 開始地上體結構工程
   - [x]  2023/03/11 鋼軌樁拆除完成  
-  - [x]  2023/04/12 二樓底板  
+  - [x]  2023/04/12 一樓夾層完成  
+  - [ ]  ?? 二樓底板  
   - [ ]  ?? 三樓底板
   - [ ]  ?? 四樓底板
   - [ ]  ?? 五樓底板
   - [ ]  ?? 六樓底板
   - [ ]  ?? 七樓底板
-- [ ]  2023/Q4 八樓底板
+- [ ]  2023/Q3~Q4 八樓底板
 - [ ]  2024/Q2~Q3 十六樓底板
 - [ ]  2025/Q1~Q2 屋頂板勘驗
 - [ ]  2025/Q3~Q4 落架
@@ -139,11 +140,11 @@
 
 ---
 ### 工程進度影像紀錄
-- 2023/04/12 -  2FL 底板灌漿  
+- 2023/04/12 -  1FL 夾層灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/231354782-7b578a26-d825-4e36-bc2e-36f464bdca24.png)
 ![image](https://user-images.githubusercontent.com/19199144/231354886-add3c417-63fb-4a34-8fd9-37e7401c9289.png)
 
-- 2023/04/02 -  2FL 底板施作  
+- 2023/04/02 -  1FL 夾層施作  
 
   <video src="https://user-images.githubusercontent.com/19199144/229325155-e60058e0-3f6d-41f0-999f-b0215d017c47.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
