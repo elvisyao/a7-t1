@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/04/12更新)
+### 目前進度 (2023/04/17更新)
 
-- 1FL 夾層灌漿
+- 1F 鋼筋綁紮
 
 ---
 ### 相關資訊連結
@@ -140,6 +140,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/04/17 -  1F 鋼筋綁紮  
+
+  <video src="https://user-images.githubusercontent.com/19199144/232357139-2818bae9-7486-461b-ba77-18ef4c0093e1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2023/04/12 -  1FL 夾層灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/231354782-7b578a26-d825-4e36-bc2e-36f464bdca24.png)
 ![image](https://user-images.githubusercontent.com/19199144/231354886-add3c417-63fb-4a34-8fd9-37e7401c9289.png)
