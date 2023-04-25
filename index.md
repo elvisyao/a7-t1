@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/04/17更新)
+### 目前進度 (2023/04/25更新)
 
-- 1F 鋼筋綁紮
+- 2F 底板組模
 
 ---
 ### 相關資訊連結
@@ -142,6 +142,17 @@
 ---
 ### 工程進度影像紀錄
 
+- 2023/04/25 -  2F 底板組模  
+
+  <video src="https://user-images.githubusercontent.com/19199144/234322384-f366cb54-1e22-43fb-89d0-ffa3b54abb8e.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
+- 2023/04/24 -  2F 底板組模  
+![image](https://user-images.githubusercontent.com/19199144/234322627-48b6373b-b861-4edd-b8a0-613618902267.png)
+![image](https://user-images.githubusercontent.com/19199144/234322660-ce5624f1-aecb-46cb-9ef4-3a9946ba0bfb.png)
+![image](https://user-images.githubusercontent.com/19199144/234322690-03086dea-d994-429c-a3de-87719eadfd34.png)
+![image](https://user-images.githubusercontent.com/19199144/234322698-582d2afc-1fc4-4f92-9b30-abb71dedfddd.png)
+![image](https://user-images.githubusercontent.com/19199144/234322759-4fda3c11-9ba5-4767-bfc0-d41e44a627ea.png)
+ 
 - 2023/04/17 -  1F 鋼筋綁紮  
 
   <video src="https://user-images.githubusercontent.com/19199144/232357139-2818bae9-7486-461b-ba77-18ef4c0093e1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
