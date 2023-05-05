@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/05/01更新)
+### 目前進度 (2023/05/05更新)
 
-- 2F 底板綁筋
+- 2F 底板灌漿
 
 ---
 ### 相關資訊連結
@@ -15,7 +15,7 @@
 ![187020695-3061a3d5-84f7-46ab-ac39-8c1bd54feede](https://user-images.githubusercontent.com/19199144/227400677-c4e92ce6-6c3f-4eb9-ad77-1ef4a1fa8ef2.png)
 
 - 地籍套繪  
-![image](https://user-images.githubusercontent.com/19199144/206945804-55948fcc-e9af-4387-b615-1914e9c04a5a.png)
+![image](https://user-images.githubusercontent.com/19199144/236360373-cf82c0be-f39b-4cdf-8424-80f38fdfdc83.png)
 
 - 玄泰T1官方頁面
   * [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
@@ -63,7 +63,7 @@
 - [x]  2023/03 一樓底板, 開始地上體結構工程
   - [x]  2023/03/11 鋼軌樁拆除完成  
   - [x]  2023/04/12 一樓夾層完成  
-  - [ ]  ?? 二樓底板  
+  - [x]  2023/05/05 二樓底板完成  
   - [ ]  ?? 三樓底板
   - [ ]  ?? 四樓底板
   - [ ]  ?? 五樓底板
@@ -142,6 +142,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/05/05 -  2F 底板灌漿  
+![image](https://user-images.githubusercontent.com/19199144/236360286-540b846a-2421-425a-97ff-34fa52646bf8.png)
+![image](https://user-images.githubusercontent.com/19199144/236360293-d69929b8-9f12-48d9-903a-0db87f214169.png)
 
 - 2023/04/30 -  2F 底板綁筋  
 
