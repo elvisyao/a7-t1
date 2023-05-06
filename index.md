@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/05/05更新)
+### 目前進度 (2023/05/06更新)
 
-- 2F 底板灌漿
+- 2F 底板灌漿養護
 
 ---
 ### 相關資訊連結
@@ -143,9 +143,14 @@
 ---
 ### 工程進度影像紀錄
 
+- 2023/05/06 -  2F 底板灌漿養護  
+
+  <video src="https://user-images.githubusercontent.com/19199144/236599607-8d7a6a69-1270-4d63-9662-56acd773ced0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
 - 2023/05/05 -  2F 底板灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/236360286-540b846a-2421-425a-97ff-34fa52646bf8.png)
 ![image](https://user-images.githubusercontent.com/19199144/236360293-d69929b8-9f12-48d9-903a-0db87f214169.png)
+![image](https://user-images.githubusercontent.com/19199144/236599628-1ac8574e-2c7c-4273-8bbe-f3a65d242c59.png)
 
 - 2023/04/30 -  2F 底板綁筋  
 
