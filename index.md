@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/05/15更新)
+### 目前進度 (2023/05/20更新)
 
-- 2F 組模
+- 3F 底板組模
 
 ---
 ### 相關資訊連結
@@ -145,47 +145,51 @@
 ---
 ### 工程進度影像紀錄
 
-- 2023/05/06 -  2F 底板灌漿養護  
+- 2023/05/20 - 3F 底板組模  
+
+  <video src="https://github.com/elvisyao/a7-t1/assets/19199144/05fe4ab0-02ac-4b29-adea-2d443f2bc109" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
+- 2023/05/06 - 2F 底板灌漿養護  
 
   <video src="https://user-images.githubusercontent.com/19199144/236599607-8d7a6a69-1270-4d63-9662-56acd773ced0.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2023/05/05 -  2F 底板灌漿  
+- 2023/05/05 - 2F 底板灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/236360286-540b846a-2421-425a-97ff-34fa52646bf8.png)
 ![image](https://user-images.githubusercontent.com/19199144/236360293-d69929b8-9f12-48d9-903a-0db87f214169.png)
 ![image](https://user-images.githubusercontent.com/19199144/236599628-1ac8574e-2c7c-4273-8bbe-f3a65d242c59.png)
 
-- 2023/04/30 -  2F 底板綁筋  
+- 2023/04/30 - 2F 底板綁筋  
 
   <video src="https://user-images.githubusercontent.com/19199144/235383927-e0bcdf93-4b80-44c2-8311-04f2b339e442.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2023/04/25 -  2F 底板組模  
+- 2023/04/25 - 2F 底板組模  
 
   <video src="https://user-images.githubusercontent.com/19199144/234322384-f366cb54-1e22-43fb-89d0-ffa3b54abb8e.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2023/04/24 -  2F 底板組模  
+- 2023/04/24 - 2F 底板組模  
 ![image](https://user-images.githubusercontent.com/19199144/234322627-48b6373b-b861-4edd-b8a0-613618902267.png)
 ![image](https://user-images.githubusercontent.com/19199144/234322660-ce5624f1-aecb-46cb-9ef4-3a9946ba0bfb.png)
 ![image](https://user-images.githubusercontent.com/19199144/234322690-03086dea-d994-429c-a3de-87719eadfd34.png)
 ![image](https://user-images.githubusercontent.com/19199144/234322698-582d2afc-1fc4-4f92-9b30-abb71dedfddd.png)
 ![image](https://user-images.githubusercontent.com/19199144/234322759-4fda3c11-9ba5-4767-bfc0-d41e44a627ea.png)
  
-- 2023/04/17 -  1F 鋼筋綁紮  
+- 2023/04/17 - 1F 鋼筋綁紮  
 
   <video src="https://user-images.githubusercontent.com/19199144/232357139-2818bae9-7486-461b-ba77-18ef4c0093e1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2023/04/12 -  1FL 夾層灌漿  
+- 2023/04/12 - 1FL 夾層灌漿  
 ![image](https://user-images.githubusercontent.com/19199144/231354782-7b578a26-d825-4e36-bc2e-36f464bdca24.png)
 ![image](https://user-images.githubusercontent.com/19199144/231354886-add3c417-63fb-4a34-8fd9-37e7401c9289.png)
 
-- 2023/04/02 -  1FL 夾層施作  
+- 2023/04/02 - 1FL 夾層施作  
 
   <video src="https://user-images.githubusercontent.com/19199144/229325155-e60058e0-3f6d-41f0-999f-b0215d017c47.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2023/03/26 -  1FL 組模中  
+- 2023/03/26 - 1FL 組模中  
 
   <video src="https://user-images.githubusercontent.com/19199144/227754973-137883a1-7f11-4354-b464-fe9db504ee97.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2023/03/19 -  1FL 鋼筋綁紮中  
+- 2023/03/19 - 1FL 鋼筋綁紮中  
 ![image](https://user-images.githubusercontent.com/19199144/226157155-44eb1855-31e7-41c6-b3bc-5e9abe2916bb.png)
 ![image](https://user-images.githubusercontent.com/19199144/226157086-84c2f112-324a-47df-8dfa-d1a41fef593e.png)
 ![image](https://user-images.githubusercontent.com/19199144/226157092-a75b455c-2114-4ec4-af1e-572cb64504bd.png)
