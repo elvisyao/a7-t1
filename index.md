@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/05/20更新)
+### 目前進度 (2023/05/29更新)
 
-- 3F 底板組模
+- 3F 底板綁筋
 
 ---
 ### 相關資訊連結
@@ -145,6 +145,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/05/29 - 3F 底板綁筋  
+
+  <video src="https://github.com/elvisyao/a7-t1/assets/19199144/ee15ca2b-41c0-4a43-9433-e6fcd174dc51" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
 - 2023/05/20 - 3F 底板組模  
 
