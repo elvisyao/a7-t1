@@ -6,7 +6,7 @@
 ---
 ### 目前進度 (2023/05/30更新)
 
-- 3F 底板灌漿
+- 三樓底板灌漿
 
 ---
 ### 相關資訊連結
@@ -15,7 +15,7 @@
 ![187020695-3061a3d5-84f7-46ab-ac39-8c1bd54feede](https://user-images.githubusercontent.com/19199144/227400677-c4e92ce6-6c3f-4eb9-ad77-1ef4a1fa8ef2.png)
 
 - 地籍套繪  
-![image](https://user-images.githubusercontent.com/19199144/236360373-cf82c0be-f39b-4cdf-8424-80f38fdfdc83.png)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/d547eae3-9cb6-4882-99e9-a7c0868e5a62)
 
 - 玄泰T1官方頁面
   * [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
@@ -145,6 +145,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/05/30 - 3F 底板灌漿  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/2106a6d8-b038-47cd-8792-36ef152c5a3d)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/cc2bf766-7789-4b2d-8e08-f9931f3e31c7)
 
 - 2023/05/29 - 3F 底板綁筋  
 
