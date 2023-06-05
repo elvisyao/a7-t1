@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/06/02更新)
+### 目前進度 (2023/06/05更新)
 
 - 三樓模板組裝
 
@@ -12,7 +12,7 @@
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![187020695-3061a3d5-84f7-46ab-ac39-8c1bd54feede](https://user-images.githubusercontent.com/19199144/227400677-c4e92ce6-6c3f-4eb9-ad77-1ef4a1fa8ef2.png)
+![227400677-c4e92ce6-6c3f-4eb9-ad77-1ef4a1fa8ef2](https://github.com/elvisyao/a7-t1/assets/19199144/d22cbab6-fca7-4d89-ab44-5ec11b3f4e6b)
 
 - 地籍套繪  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/d547eae3-9cb6-4882-99e9-a7c0868e5a62)
@@ -150,6 +150,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/06/05 - 3F 模板組裝  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/b3d0b98c-4118-4e10-b22b-7021c5e95f46)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/227990c7-8d16-44d9-9133-bdb4b0ab637c)
 
 - 2023/05/30 - 3F 底板灌漿  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/2106a6d8-b038-47cd-8792-36ef152c5a3d)
