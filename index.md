@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/06/21更新)
+### 目前進度 (2023/06/22更新)
 
 - 四樓底板組模
 
@@ -154,6 +154,10 @@
 ### 工程進度影像紀錄
 
 - 2023/06/21 - 4F 底板組模  
+
+  <video src="https://github.com/elvisyao/a7-t1/assets/19199144/564b02c9-972f-4827-b437-504204d65615" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
+- 2023/06/20 - 4F 底板組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/cf5af8f1-b2da-4e45-bc0a-a17642d3f1ed)
 
 - 2023/06/11 - 3F 模板組裝  
