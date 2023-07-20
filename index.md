@@ -4,9 +4,10 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/07/11更新)
+### 目前進度 (2023/07/20更新)
 
-- 四樓組模
+- C/D棟 五樓底版灌漿完成
+- A/B棟 五樓底版組模中
 
 ---
 ### 相關資訊連結
@@ -66,7 +67,7 @@
   - [x]  2023/05/05 二樓底板完成 (duration: 23d)  
   - [x]  2023/05/30 三樓底板完成 (duration: 25d)  
   - [x]  2023/06/27 四樓底板完成 (duration: 28d)
-  - [ ]  ?? 五樓底板
+  - [ ]  ?? 五樓底板完成 (C/D棟07/18底板灌漿)
   - [ ]  ?? 六樓底板
   - [ ]  ?? 七樓底板
 - [ ]  2023/Q3~Q4 八樓底板
@@ -155,6 +156,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/07/20 - 5F 底板灌漿完成(C/D棟)  
+
+  <video src="https://github.com/elvisyao/a7-t1/assets/19199144/f4932aca-d26a-4b31-a259-dadba9726ac2" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
 - 2023/07/08 - 4F 組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/17c2692f-3ff9-4391-be59-8f6508c164ec)
