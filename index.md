@@ -13,7 +13,7 @@
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![227400677-c4e92ce6-6c3f-4eb9-ad77-1ef4a1fa8ef2](https://github.com/elvisyao/a7-t1/assets/19199144/d22cbab6-fca7-4d89-ab44-5ec11b3f4e6b)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/2ac35aad-7f60-41b0-9321-7263f1d02053)
 
 - 地籍套繪  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/d547eae3-9cb6-4882-99e9-a7c0868e5a62)
