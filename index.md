@@ -4,18 +4,18 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/07/25更新)
+### 目前進度 (2023/07/27更新)
 
-- 五樓底版灌漿完成
+- 五樓組模
 
 ---
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![image](https://github.com/elvisyao/a7-t1/assets/19199144/2ac35aad-7f60-41b0-9321-7263f1d02053)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/f0dec0c4-453a-4246-988b-01b3aea3e565)
 
 - 地籍套繪  
-![image](https://github.com/elvisyao/a7-t1/assets/19199144/d547eae3-9cb6-4882-99e9-a7c0868e5a62)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/c7f14ec2-30f3-4f9d-ae24-a91d7319fcd2)
 
 - 玄泰T1官方頁面
   * [玄泰T1 - 官方網頁](https://xn--t1-p81ep4v.com/)
@@ -66,7 +66,7 @@
   - [x]  2023/05/05 二樓底板完成 (duration: 23d)  
   - [x]  2023/05/30 三樓底板完成 (duration: 25d)  
   - [x]  2023/06/27 四樓底板完成 (duration: 28d)
-  - [x]  2023/07/25 五樓底板完成 (CD棟07/18, AB棟07/25, duration: 28d)
+  - [x]  2023/07/25 五樓底板完成 (duration: 28d: C&D棟07/18, A&B棟07/25)
   - [ ]  ?? 六樓底板
   - [ ]  ?? 七樓底板
 - [ ]  2023/Q3~Q4 八樓底板
