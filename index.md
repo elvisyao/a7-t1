@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/08/04更新)
+### 目前進度 (2023/08/06更新)
 
 - 五樓組模
 - 塔吊安裝
@@ -160,7 +160,11 @@
 ---
 ### 工程進度影像紀錄
 
-- 2023/08/02 - 塔吊安裝  
+- 2023/08/06 - 塔吊安裝  
+
+  <video src="https://github.com/elvisyao/a7-t1/assets/19199144/8e28db62-d6b8-4432-8e79-33663caa5987" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
+- 2023/08/04 - 塔吊安裝  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/10e0512f-6fd2-4121-b0c1-9895607efdaa)
 
 - 2023/08/02 - 塔吊安裝  
