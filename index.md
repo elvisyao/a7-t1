@@ -4,15 +4,15 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/08/21更新)
+### 目前進度 (2023/08/29更新)
 
-- 六樓結構組模
+- 七樓底板組模
 
 ---
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![image](https://github.com/elvisyao/a7-t1/assets/19199144/f0dec0c4-453a-4246-988b-01b3aea3e565)
+![256424963-f0dec0c4-453a-4246-988b-01b3aea3e565](https://github.com/elvisyao/a7-t1/assets/19199144/e9f59002-002b-4495-bf24-3d87959aa507)
 
 - 地籍套繪  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/c7f14ec2-30f3-4f9d-ae24-a91d7319fcd2)
@@ -161,12 +161,15 @@
 ---
 ### 工程進度影像紀錄
 
+- 2023/08/28 - 7F A/B棟 底板組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/2b760e7e-2b32-4a59-a35c-0ffb8f1c1ff9)
+
 - 2023/08/19 - 6F 底板灌漿(A/B棟)  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/95cc7644-9268-4cc1-a0e2-b2547d7f436b)
 
   <video src="https://github.com/elvisyao/a7-t1/assets/19199144/7ec87587-0bd7-4b84-a534-e9f84b1d8858" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2023/08/13 - 6F A/B 棟板組模  
+- 2023/08/13 - 6F A/B 棟底板組模  
 
   <video src="https://github.com/elvisyao/a7-t1/assets/19199144/b9aed925-3c30-4cef-8c86-6eca11b06e6e" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
