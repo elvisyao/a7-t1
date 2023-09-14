@@ -4,15 +4,16 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/09/11更新)
+### 目前進度 (2023/09/14更新)
 
-- 七樓結構組模
+- 六樓底板灌漿 (CD棟)
+- 七樓結構組模 (AB棟)
 
 ---
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![256424963-f0dec0c4-453a-4246-988b-01b3aea3e565](https://github.com/elvisyao/a7-t1/assets/19199144/e9f59002-002b-4495-bf24-3d87959aa507)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/ac120e4a-1069-4510-89cf-2ee80203d87f)
 
 - 地籍套繪  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/c7f14ec2-30f3-4f9d-ae24-a91d7319fcd2)
@@ -68,7 +69,7 @@
   - [x]  2023/06/27 四樓底板完成 (duration: 28d)
   - [x]  2023/07/25 五樓底板完成 (duration: 28d) CD棟07/18, AB棟07/25
   - [x]  2023/08/19 六樓底板完成 (duration: 25d) CD棟08/11, AB棟08/19
-  - [x]  2023/09/07 七樓底板完成 (duration: 19d)
+  - [x]  2023/09/14 七樓底板完成 (duration: 26d) AB棟09/07, CD棟09/14
 - [ ]  2023/Q3~Q4 八樓底板
   - [ ]  ?? 八樓底板
   - [ ]  ?? 九樓底板
@@ -171,10 +172,13 @@
 ---
 ### 工程進度影像紀錄
 
+- 2023/09/14 - 7F 底板灌漿(CD棟)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/18854ee6-dac2-4b39-87b1-2e773d431eeb)
+
 - 2023/09/11 - 接待中心拆除
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/f7b5bab5-0f21-4c8e-b190-027b5207dd21)
 
-- 2023/09/07 - 7F 底板灌漿  
+- 2023/09/07 - 7F 底板灌漿(AB棟)  
 
   <video src="https://github.com/elvisyao/a7-t1/assets/19199144/f6cba6f8-8348-4fca-817a-22037ac38dd6" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
