@@ -4,15 +4,15 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/09/21更新)
+### 目前進度 (2023/09/25更新)
 
-- 七樓結構組模
+- 八樓底板組模
 
 ---
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![image](https://github.com/elvisyao/a7-t1/assets/19199144/ac120e4a-1069-4510-89cf-2ee80203d87f)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/b02fff4d-e3df-4e15-9423-9a6c49907c1a)
 
 - 地籍套繪  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/c7f14ec2-30f3-4f9d-ae24-a91d7319fcd2)
@@ -171,6 +171,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/09/24 - 8F 底板組模
+
+  <video src="https://github.com/elvisyao/a7-t1/assets/19199144/7015b716-b3b8-461d-a07f-48ff480734b8" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
 - 2023/09/14 - 7F 底板灌漿(CD棟)
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/18854ee6-dac2-4b39-87b1-2e773d431eeb)
