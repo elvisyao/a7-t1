@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/09/25更新)
+### 目前進度 (2023/09/26更新)
 
-- 八樓底板組模
+- 八樓底板灌漿 (AB棟)
 
 ---
 ### 相關資訊連結
@@ -62,15 +62,15 @@
   - [x]  2023/02/21 B1F施作完成
 - [x]  2023/03 一樓底板, 開始地上體結構工程
   - [x]  2023/03/11 鋼軌樁拆除完成  
-  - [x]  2023/04/12 一樓夾層完成 (duration: 32d)  
-  - [x]  2023/05/05 二樓底板完成 (duration: 23d)  
-  - [x]  2023/05/30 三樓底板完成 (duration: 25d)  
-  - [x]  2023/06/27 四樓底板完成 (duration: 28d)
-  - [x]  2023/07/25 五樓底板完成 (duration: 28d) CD棟07/18, AB棟07/25
-  - [x]  2023/08/19 六樓底板完成 (duration: 25d) CD棟08/11, AB棟08/19
-  - [x]  2023/09/14 七樓底板完成 (duration: 26d) AB棟09/07, CD棟09/14
+  - [x]  2023/04/12 一樓夾層完成 (32d)  
+  - [x]  2023/05/05 二樓底板完成 (23d)  
+  - [x]  2023/05/30 三樓底板完成 (25d)  
+  - [x]  2023/06/27 四樓底板完成 (28d)
+  - [x]  2023/07/25 五樓底板完成 (28d) CD棟07/18, AB棟07/25
+  - [x]  2023/08/19 六樓底板完成 (25d) CD棟08/11, AB棟08/19
+  - [x]  2023/09/14 七樓底板完成 (26d) AB棟09/07, CD棟09/14
 - [ ]  2023/Q3~Q4 八樓底板
-  - [ ]  ?? 八樓底板
+  - [ ]  ?? 八樓底板完成 (??d) AB棟09/26, CD棟??
   - [ ]  ?? 九樓底板
   - [ ]  ?? 十樓底板
   - [ ]  ?? 十一樓底板
@@ -172,6 +172,9 @@
 ---
 ### 工程進度影像紀錄
 
+- 2023/09/26 - 8F 底板灌漿(AB棟)  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/74d18187-2778-4a8d-a2b0-e5849c913979)
+
 - 2023/09/24 - 8F 底板組模
 
   <video src="https://github.com/elvisyao/a7-t1/assets/19199144/7015b716-b3b8-461d-a07f-48ff480734b8" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
@@ -193,7 +196,7 @@
 - 2023/08/28 - 7F 底板組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/2b760e7e-2b32-4a59-a35c-0ffb8f1c1ff9)
 
-- 2023/08/19 - 6F 底板灌漿(A/B棟)  
+- 2023/08/19 - 6F 底板灌漿(AB棟)  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/95cc7644-9268-4cc1-a0e2-b2547d7f436b)
 
   <video src="https://github.com/elvisyao/a7-t1/assets/19199144/7ec87587-0bd7-4b84-a534-e9f84b1d8858" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
