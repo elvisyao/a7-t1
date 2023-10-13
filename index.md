@@ -92,7 +92,7 @@
 
   * 建商預售款信託帳戶  
 ![image](https://user-images.githubusercontent.com/19199144/173193745-52354ba0-40e3-4780-b4b1-e996453218f0.png)
-  * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/ECDefault.aspx) > 新繳款人專區 > 預售屋價金信託查詢 > 群泰開發有限公司-665***33 > 5297 玄泰T1
+  * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/ECDefault.aspx) > 新繳款人專區 > 預售屋價金信託查詢 > 群泰開發有限公司-665***33 > 5297 玄泰T1  
     ![image](https://github.com/elvisyao/a7-t1/assets/19199144/2b2a12d9-e366-461a-a9aa-e67cf51d4cde)
     * 繳款人代碼: 身分證後八碼
     * 第一次登入，帳號跟密碼都是身份證後8碼
