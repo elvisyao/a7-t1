@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2023/10/24更新)
+### 目前進度 (2023/10/26更新)
 
-- 九樓底板灌漿 (CD棟)
+- 九樓結構中
 
 ---
 ### 相關資訊連結
@@ -22,6 +22,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
+  * [2023/10/25 - 桃園龜山A7重劃區 - 2023Q4最新4K影片](https://youtu.be/9pcvsF2cMf8?si=U4mJVg7jMT0KWdjJ)
   * [2023/09/18 - A7重劃區 玄泰T1 工程進度](https://www.youtube.com/watch?v=jxPaXR78evo)
   * [2023/03/11 - 桃園龜山A7重劃區 - 2023 最新4K影片](https://youtu.be/I7TC7qGbnmw)
   * [2022/12/25 - A7重劃區-強哥空拍](https://youtu.be/_J_SUmD1GSo)
@@ -175,6 +176,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2023/10/25 - 9F 結構組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/e5b92fbd-223b-484f-80ed-a0bf7369070e)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/a43d091a-b379-4b97-95b2-5c805ea781cc)
 
 - 2023/10/22 - 9F 結構組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/b0143c3b-05d4-462d-a759-0a05a8abba89)
