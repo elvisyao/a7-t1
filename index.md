@@ -179,7 +179,8 @@
 ---
 ### 工程進度影像紀錄
 
-- 2023/11/03 - 10F 底板灌漿(AB棟)
+- 2023/11/03 - 10F 底板灌漿(AB棟)  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/b23b604b-c2a5-4d9c-96e6-b7eff3aeea7b)
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/527c0ade-80fb-494e-bdbd-9850547a8687)
 
 - 2023/10/25 - 9F 結構組模  
