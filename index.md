@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/02/07更新)
+### 目前進度 (2024/02/12更新)
 
 - AB棟: 14樓結構
 - CD棟: 14樓結構
@@ -196,6 +196,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/02/12 - 14F 結構組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/f4c363ac-5774-4d78-a946-60bd82ca47ec)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/a86d7cee-5a1b-415e-acc5-134edca6b580)
 
 - 2024/01/28 - 13F 結構組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/fbf08ef3-1d27-49aa-a2ee-a86f821357dc)
