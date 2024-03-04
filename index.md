@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/02/27更新)
+### 目前進度 (2024/03/04更新)
 
-- AB棟: 15樓底版灌漿
+- AB棟: 15樓結構
 - CD棟: 14樓結構
 
 ---
@@ -196,6 +196,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/03/03 - 15F 結構組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/0f799920-4444-48ee-9a94-9c90874f1edc)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/261480af-fc1b-4aef-88fc-0905dbd5a19b)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/14a85431-6a1e-4bbb-acdb-26af0d73df17)
 
 - 2024/02/25 - 14F 結構組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/142db4a2-4eee-4321-84d4-43b84396dfd9)
