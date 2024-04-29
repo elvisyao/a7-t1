@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/04/23更新)
+### 目前進度 (2024/04/29更新)
 
-- AB棟: 18樓底板灌漿
+- AB棟: 18樓結構
 - CD棟: 17樓結構
 
 ---
@@ -199,6 +199,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/04/28 - 18F 結構組模  
+
+  <video src="https://github.com/elvisyao/a7-t1/assets/19199144/e78920dd-feb1-4748-8120-ae7a143be9e7" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
+
+- 2024/04/27 - 18F 結構組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/31f1b777-4ec2-4ea6-af1d-b56980b28abe)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/a99fd2ba-31d6-4174-a02b-c92cbcd7f36b)
 
 - 2024/04/20 - 17F 結構組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/24b93075-ab2c-4263-981b-d4ba2bdb3092)
