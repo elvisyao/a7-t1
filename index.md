@@ -4,10 +4,10 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/05/17更新)
+### 目前進度 (2024/05/19更新)
 
 - AB棟: 19樓結構
-- CD棟: 19樓底板灌漿
+- CD棟: 19樓結構
 
 ---
 ### 相關資訊連結
@@ -23,6 +23,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
+  * [2024/05/07 - A7重劃區 玄泰T1 進度：18樓](https://www.youtube.com/watch?v=p3afMyjhNyk)
   * [2024/04/03 - 桃園龜山A7重劃區 - 2024最新4K影片](https://youtu.be/0fp1-5cHPEA?si=hAtxnQ8bP94dRlQ6)
   * [2023/10/25 - 桃園龜山A7重劃區 - 2023Q4最新4K影片](https://youtu.be/9pcvsF2cMf8?si=U4mJVg7jMT0KWdjJ)
   * [2023/09/18 - A7重劃區 玄泰T1 工程進度](https://www.youtube.com/watch?v=jxPaXR78evo)
@@ -198,6 +199,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/05/19 - 19F 結構組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/5961dc0f-0a7d-4377-94c8-2c0b0f5f4b13)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/7c96cf7a-a693-427e-9767-bfcc9b1259bf)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/3c38713f-b4af-48d9-91a7-58e54e4f9d91)
 
 - 2024/05/01 - 18F 結構組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/95687633-b8aa-4170-b21b-2ab540a17bc9)
