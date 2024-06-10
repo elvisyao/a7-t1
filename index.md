@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/06/06更新)
+### 目前進度 (2024/06/10更新)
 
 - AB棟: 20樓結構
 - CD棟: 20樓結構
@@ -198,6 +198,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/06/10 - 20F 結構組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/ec309d13-62b2-4412-bfd9-99dd744488b3)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/a097c290-7414-4ff0-a5ec-a38bac67aebb)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/41b99296-585e-453d-82a8-84cb4dfe43bb)
 
 - 2024/05/19 - 19F 結構組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/5961dc0f-0a7d-4377-94c8-2c0b0f5f4b13)
