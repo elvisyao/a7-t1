@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/07/02更新)
+### 目前進度 (2024/07/06更新)
 
 - AB棟: 22樓結構
 - CD棟: 21樓結構
@@ -13,7 +13,7 @@
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![292711047-f1fbb1e5-3a40-4312-9246-acdf6d20cf3e](https://github.com/elvisyao/a7-t1/assets/19199144/ddf5d433-f8e4-44b8-bbee-0f57103e9a74)
+![292711047-f1fbb1e5-3a40-4312-9246-acdf6d20cf3e](https://github.com/elvisyao/a7-t1/assets/19199144/4958e2ab-ec55-480b-8df5-baacd3699fe6)
 
 - 地籍套繪  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/f37f3170-1b4b-4f80-8ab3-2afa2bdf00fe)
@@ -198,6 +198,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/07/06 - 22F 結構組模  
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/c98115d7-a269-4d60-8525-e6d63ce68232)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/26887c46-1876-4f6b-a24d-903bb8f04e73)
+![image](https://github.com/elvisyao/a7-t1/assets/19199144/0bad5b3f-0912-4565-af3c-c1ffed68cc59)
 
 - 2024/06/25 - 21F 底板灌漿(CD棟)  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/1104ca75-6ddc-40ca-8ee2-54d4b32951e0)
