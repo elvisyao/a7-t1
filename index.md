@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/07/12更新)
+### 目前進度 (2024/07/20更新)
 
-- AB棟: 22樓結構
+- AB棟: 23樓結構
 - CD棟: 22樓結構
 
 ---
@@ -88,7 +88,7 @@
   - [x]  2024/06/06 - 20樓底板完成 (20d) AB棟05/29, CD棟06/06
   - [x]  2024/06/25 - 21樓底板完成 (19d) AB棟06/15, CD棟06/25
   - [x]  2024/07/12 - 22樓底板完成 (17d) AB棟07/02, CD棟07/12
-  - [ ]  2024/07/?? - 23樓底板
+  - [ ]  2024/07/?? - 23樓底板完成 (??d) AB棟07/19, CD棟07/??
   - [ ]  2024/08/?? - 24樓底板
   - [ ]  2024/09/?? - 25樓底板
   - [ ]  2024/09/?? - 上樑
@@ -198,6 +198,12 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/07/20 - 23F 結構組模  
+![image](https://github.com/user-attachments/assets/7821f310-982a-4695-8549-8ab2375b5abd)
+![image](https://github.com/user-attachments/assets/45c0d132-8a69-44aa-b0f0-ba1c6510751a)
+![image](https://github.com/user-attachments/assets/fcb9a33d-5f7d-4be9-a285-bf557e6be6a2)
+![image](https://github.com/user-attachments/assets/7f551b92-d796-41d2-86f0-f62551f729fb)
 
 - 2024/07/06 - 22F 結構組模  
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/c98115d7-a269-4d60-8525-e6d63ce68232)
