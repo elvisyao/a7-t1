@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/08/06更新)
+### 目前進度 (2024/08/11更新)
 
 - AB棟: 24樓結構
 - CD棟: 23樓結構
@@ -19,7 +19,7 @@
 ![image](https://github.com/elvisyao/a7-t1/assets/19199144/f37f3170-1b4b-4f80-8ab3-2afa2bdf00fe)
 
 - 玄泰T1官方頁面
-  * [玄泰T1 - 官方網頁](https://www.mzdesign.acsite.org/t1/index.html)
+  * [玄泰T1 - 官方網頁](https://www.mzdesign.acsite.org/t1/index.html)(網頁掛了)
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
@@ -95,8 +95,8 @@
   - [ ]  2024/10/?? - 封頂
   - [ ]  2024/11/?? - 屋突層完成
 - [ ]  2025/Q3 落架
+- [ ]  2025/Q3 使照申請
 - [ ]  2025/Q4 消檢
-- [ ]  2025/Q4 使照申請
 - [ ]  2025/Q4 對保/暫收款
 - [ ]  2026/Q1 交屋保留款
 - [ ]  2026/Q1 交屋
@@ -199,6 +199,12 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/08/09 - 24F 結構組模  
+![image](https://github.com/user-attachments/assets/f7c880d5-223c-4f3f-890d-3132523c7a57)
+![image](https://github.com/user-attachments/assets/0b724402-7cb8-4c92-8800-5cd65afc7c09)
+![image](https://github.com/user-attachments/assets/67544e60-78f2-4306-b8aa-1408ae3879b6)
+![image](https://github.com/user-attachments/assets/aaaa417d-bc19-4826-a2e5-11ccae95ecd8)
 
 - 2024/07/30 - 23F 底板灌漿(CD棟) & 外飾磁磚  
 ![image](https://github.com/user-attachments/assets/9aa0c2ea-213b-48c9-a590-0d028986329a)
