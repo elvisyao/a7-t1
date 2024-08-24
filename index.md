@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/08/23更新)
+### 目前進度 (2024/08/24更新)
 
 - AB棟: 25樓結構
 - CD棟: 24樓結構
@@ -91,7 +91,7 @@
   - [x]  2024/07/12 - 22樓底板完成 (17d) AB棟07/02, CD棟07/12
   - [x]  2024/07/30 - 23樓底板完成 (18d) AB棟07/19, CD棟07/30
   - [x]  2024/08/16 - 24樓底板完成 (17d) AB棟08/06, CD棟08/16
-  - [ ]  2024/08/?? - 25樓底板完成 (??d) AB棟08/23, CD棟08/??
+  - [ ]  2024/09/?? - 25樓底板完成 (??d) AB棟08/23, CD棟09/??
   - [ ]  2024/09/?? - 上樑
   - [ ]  2024/09/?? - 封頂
   - [ ]  2024/11/?? - 屋突層完成
@@ -200,6 +200,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/08/24 - 25F 結構組模  
+![image](https://github.com/user-attachments/assets/c31f6331-fe7c-4497-a533-1a771c7eeee5)
+![image](https://github.com/user-attachments/assets/6c28a06c-4ad2-45ff-81ec-dc0ea161ca9e)
+![image](https://github.com/user-attachments/assets/1b23ac26-06f5-48d8-9f4d-254a6eb50ed2)
+![image](https://github.com/user-attachments/assets/d4e45383-edfc-44e4-98cc-32b146f81f8f)
+![image](https://github.com/user-attachments/assets/c84d9f30-7aec-49cc-9d7a-371c87ee86ee)
 
 - 2024/08/23 - 25F 底板灌漿(AB棟) 
 ![image](https://github.com/user-attachments/assets/2f3fc23e-c7e5-4554-afdd-e35e2701fec5)
