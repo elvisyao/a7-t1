@@ -4,10 +4,10 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/08/24更新)
+### 目前進度 (2024/09/03更新)
 
 - AB棟: 25樓結構
-- CD棟: 24樓結構
+- CD棟: 25樓結構
 
 ---
 ### 相關資訊連結
@@ -91,9 +91,8 @@
   - [x]  2024/07/12 - 22樓底板完成 (17d) AB棟07/02, CD棟07/12
   - [x]  2024/07/30 - 23樓底板完成 (18d) AB棟07/19, CD棟07/30
   - [x]  2024/08/16 - 24樓底板完成 (17d) AB棟08/06, CD棟08/16
-  - [ ]  2024/09/?? - 25樓底板完成 (??d) AB棟08/23, CD棟09/??
-  - [ ]  2024/09/?? - 上樑
-  - [ ]  2024/09/?? - 封頂
+  - [x]  2024/09/03 - 25樓底板完成 (18d) AB棟08/23, CD棟09/03
+  - [ ]  2024/09/?? - 上樑/屋頂板完成
   - [ ]  2024/11/?? - 屋突層完成
 - [ ]  2025/Q3 落架
 - [ ]  2025/Q3 使照申請
@@ -200,6 +199,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/09/01 - 25F 結構組模  
+![image](https://github.com/user-attachments/assets/27ce4dbd-8be2-40c9-9770-886c741a9f61)
+![image](https://github.com/user-attachments/assets/45053c46-2946-4f68-91e9-d17085b22fca)
+![image](https://github.com/user-attachments/assets/5084735f-f1ea-4049-a288-b2fc8ccb3880)
+![image](https://github.com/user-attachments/assets/5fabd625-ef21-4fa4-ae58-bb09f3707e09)
+![image](https://github.com/user-attachments/assets/6d6e8b28-c5f8-4e99-97be-af16ee56e2f7)
 
 - 2024/08/24 - 25F 結構組模  
 ![image](https://github.com/user-attachments/assets/c31f6331-fe7c-4497-a533-1a771c7eeee5)
