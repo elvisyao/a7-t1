@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/09/03更新)
+### 目前進度 (2024/09/14更新)
 
 - AB棟: 25樓結構
 - CD棟: 25樓結構
@@ -199,6 +199,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/09/14 - 25F 結構組模  
+![image](https://github.com/user-attachments/assets/33e4ad99-14e4-46ad-967b-38980c5eda17)
+![image](https://github.com/user-attachments/assets/f2ad1555-3c11-4d67-8b98-bf14e122d35a)
+![image](https://github.com/user-attachments/assets/5c0330e5-54ec-4a7a-a6a2-ce7da5496370)
+![image](https://github.com/user-attachments/assets/4e9befbf-5c7f-43a8-97f2-fb5f5ef059d0)
+![image](https://github.com/user-attachments/assets/630022f6-1aab-434b-91a3-be8d88ea6c1c)
 
 - 2024/09/01 - 25F 結構組模  
 ![image](https://github.com/user-attachments/assets/27ce4dbd-8be2-40c9-9770-886c741a9f61)
