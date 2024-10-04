@@ -4,10 +4,10 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/09/30更新)
+### 目前進度 (2024/10/04更新)
 
-- AB棟: 屋突結構
-- CD棟: 屋頂板灌漿
+- AB棟: 屋突層結構
+- CD棟: 屋突層結構
 
 ---
 ### 相關資訊連結
@@ -203,6 +203,12 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/10/03 - 25F 屋頂板結構  
+![image](https://github.com/user-attachments/assets/c337baf7-7eef-484f-a6d2-e083cb176db7)
+![image](https://github.com/user-attachments/assets/0d030a45-64ac-4c51-b6c5-293a76fc925d)
+![image](https://github.com/user-attachments/assets/c6259fa5-db77-47c1-a56f-7a32aed09d8f)
+![image](https://github.com/user-attachments/assets/48617add-9240-48c3-b07f-b98fcef69a5c)
 
 - 2024/09/30 - 25F 屋頂板灌漿(CD棟)  
 ![image](https://github.com/user-attachments/assets/ab2986c6-a755-4310-8bbc-3f050b73f8eb)
