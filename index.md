@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/10/05更新)
+### 目前進度 (2024/10/06更新)
 
-- AB棟: 屋突層(R1FL)灌漿
+- AB棟: 屋突層(R2FL)結構
 - CD棟: 屋突層(R1FL)結構
 
 ---
@@ -204,6 +204,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/10/06 - 屋突層R1FL/R2FL結構  
+![image](https://github.com/user-attachments/assets/460be77c-4904-4492-9276-270874192110)
+![image](https://github.com/user-attachments/assets/639364e2-e32e-4b38-9a6f-3a2f1eacc484)
+![image](https://github.com/user-attachments/assets/34fedb60-ba18-48ba-af42-8420e0f5ddb4)
+![image](https://github.com/user-attachments/assets/5f1b50ae-e1c3-4cff-81ac-0bcbe07a8078)
+![image](https://github.com/user-attachments/assets/5c7c9d79-5937-4628-9635-8dda8b0acdde)
 
 - 2024/10/05 - 屋突層R1FL灌漿(AB棟)  
 ![image](https://github.com/user-attachments/assets/84ec6f7c-7070-438a-8952-30d778be75bc)
