@@ -4,10 +4,10 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/10/28更新)
+### 目前進度 (2024/11/02更新)
 
-- AB棟: 屋突層(R3FL)結構完成
-- CD棟: 屋突層(R2FL)結構灌漿
+- AB棟: 外飾貼磚進行中
+- CD棟: 屋突層(R3FL)結構中
 
 ---
 ### 相關資訊連結
@@ -97,7 +97,7 @@
   - [x]  2024/10/16 - 屋突層R1FL完成 (16d) AB棟10/05, CD棟10/16
   - [x]  2024/10/28 - 屋突層R2FL完成 (12d) AB棟10/18, CD棟10/28
   - [ ]  2024/11/?? - 屋突層R3FL完成 (??d) AB棟10/26, CD棟11/??
-- [ ]  2024/09 開始外飾貼磚工程
+- [x]  2024/09 開始外飾貼磚工程
   - [x]  2024/09/18 - 外飾完成10%
   - [x]  2024/10/09 - 外飾完成20%
   - [x]  2024/10/27 - 外飾完成30%
@@ -207,6 +207,16 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/11/02 - 屋突層R3FL結構(CD棟). 外飾貼磚進行中  
+![image](https://github.com/user-attachments/assets/160c60dd-d9ef-48eb-be8b-00b2230f2bc6)
+![image](https://github.com/user-attachments/assets/0bc37045-d673-49be-8a21-4a5261ca904b)
+![image](https://github.com/user-attachments/assets/52948115-adfe-4dd0-acf7-1f129fb5e23f)
+![image](https://github.com/user-attachments/assets/879ad1d4-ede1-41f9-8991-0b5d1096599e)
+![image](https://github.com/user-attachments/assets/d53a74d7-b57d-4a69-b18d-f92d8e3cc44d)
+![image](https://github.com/user-attachments/assets/7a2b3d2b-3b8e-4797-9c6f-3c0444e4cbee)
+![image](https://github.com/user-attachments/assets/765d42de-6e49-4bb4-a401-be30b3d56327)
+![image](https://github.com/user-attachments/assets/754da71e-49c0-4f23-9ea0-950f823f361f)
 
 - 2024/10/26 - 屋突層R3FL灌漿(AB棟)  
 ![image](https://github.com/user-attachments/assets/f6607069-3d52-4077-9b3e-d4409b40e8e5)
