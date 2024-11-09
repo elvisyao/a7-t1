@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/11/02更新)
+### 目前進度 (2024/11/09更新)
 
 - AB棟: 外飾貼磚進行中
 - CD棟: 屋突層(R3FL)結構中
@@ -207,6 +207,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/11/09 - 屋突層R3FL結構(CD棟). 外飾貼磚進行中  
+![image](https://github.com/user-attachments/assets/d6a34d29-637f-40a0-920d-f1ec768e683c)
+![image](https://github.com/user-attachments/assets/fe9064ae-eac3-4914-b10d-1792dcf190ea)
+![image](https://github.com/user-attachments/assets/0aabb3df-e8ca-4179-817d-2434e48af638)
+![image](https://github.com/user-attachments/assets/39fdf9cf-f5a7-432b-8e5c-1cae8f01d928)
+![image](https://github.com/user-attachments/assets/88a85ce7-3ca9-42b8-b445-7fcdfd470adb)
 
 - 2024/11/02 - 屋突層R3FL結構(CD棟). 外飾貼磚進行中  
 ![image](https://github.com/user-attachments/assets/160c60dd-d9ef-48eb-be8b-00b2230f2bc6)
