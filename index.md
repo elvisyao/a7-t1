@@ -4,10 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/11/14更新)
+### 目前進度 (2024/11/16更新)
 
-- AB棟: 外飾貼磚進行中
-- CD棟: 外飾貼磚進行中
+- 外飾貼磚/室內裝修進行中
 
 ---
 ### 相關資訊連結
@@ -101,13 +100,15 @@
   - [x]  2024/09/18 - 外飾完成10%
   - [x]  2024/10/09 - 外飾完成20%
   - [x]  2024/10/27 - 外飾完成30%
-  - [ ]  2024/11/?? - 外飾完成40%
-- [ ]  2025/Q3 落架
-- [ ]  2025/Q3 使照申請
+  - [x]  2024/11/16 - 外飾完成40%
+  - [ ]  2024/12/?? - 外飾完成50%
+- [ ]  2025/Q3 屋突層落架
+- [ ]  2025/Q3 落架完成
+- [ ]  2025/Q3 開始申請使照
 - [ ]  2025/Q4 消檢
 - [ ]  2025/Q4 對保/暫收款
+- [ ]  2025/Q4 使照完成
 - [ ]  2026/Q1 交屋保留款
-- [ ]  2026/Q1 交屋
 
 ---
 ### 工程款繳費進度
@@ -207,6 +208,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/11/16 - 外飾貼磚/室內裝修
+![image](https://github.com/user-attachments/assets/eaff7e0c-bfd3-4349-85f0-f4a838018dab)
+![image](https://github.com/user-attachments/assets/b0302301-e690-4471-ada0-31ec0c231ef7)
+![image](https://github.com/user-attachments/assets/c0c3b620-0925-4e60-8168-8f2c0542ca4d)
+![image](https://github.com/user-attachments/assets/417eeb9a-4f89-4dba-bd31-b3d219895259)
+![image](https://github.com/user-attachments/assets/7cf21567-3f04-429a-9fb7-b1debc5af0c2)
 
 - 2024/11/09 - 屋突層R3FL結構(CD棟). 外飾貼磚進行中  
 ![image](https://github.com/user-attachments/assets/d6a34d29-637f-40a0-920d-f1ec768e683c)
