@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/11/16更新)
+### 目前進度 (2024/11/24更新)
 
 - 外飾貼磚/室內裝修進行中
 
@@ -208,6 +208,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/11/23 - 外飾貼磚/室內裝修
+![image](https://github.com/user-attachments/assets/b6acaddf-0939-4ea1-ba13-4d243522d10d)
+![image](https://github.com/user-attachments/assets/d540646e-4a8c-499a-9933-e6173a6a934a)
+![image](https://github.com/user-attachments/assets/53d217be-0c61-4a29-a211-608ea68b4268)
+![image](https://github.com/user-attachments/assets/57e69f47-1dd9-49af-9a1e-cd766c677432)
+![image](https://github.com/user-attachments/assets/0c232011-e973-4fa6-bf38-d36d9728866c)
 
 - 2024/11/16 - 外飾貼磚/室內裝修
 ![image](https://github.com/user-attachments/assets/eaff7e0c-bfd3-4349-85f0-f4a838018dab)
