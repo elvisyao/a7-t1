@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/11/24更新)
+### 目前進度 (2024/12/01更新)
 
-- 外飾貼磚/室內裝修進行中
+- 屋突外飾/貼磚/室內裝修進行中
 
 ---
 ### 相關資訊連結
@@ -208,6 +208,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/11/30 - 屋突外飾/貼磚/室內裝修
+![image](https://github.com/user-attachments/assets/3560bfd0-1b55-4000-82b2-11617b81c42b)
+![image](https://github.com/user-attachments/assets/cb730a71-8278-435e-bb08-86831c06cc3e)
+![image](https://github.com/user-attachments/assets/9a356886-bd74-4358-8a7e-3a13c66b6b24)
+![image](https://github.com/user-attachments/assets/d1bfbfa4-a4b0-461d-b2a6-aea1a0e915c4)
+![image](https://github.com/user-attachments/assets/4a928a23-cd9a-42ed-84a0-78be216d2585)
 
 - 2024/11/23 - 外飾貼磚/室內裝修
 ![image](https://github.com/user-attachments/assets/b6acaddf-0939-4ea1-ba13-4d243522d10d)
