@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/12/01更新)
+### 目前進度 (2024/12/07更新)
 
 - 屋突外飾/貼磚/室內裝修進行中
 
@@ -101,7 +101,8 @@
   - [x]  2024/10/09 - 外飾完成20%
   - [x]  2024/10/27 - 外飾完成30%
   - [x]  2024/11/16 - 外飾完成40%
-  - [ ]  2024/12/?? - 外飾完成50%
+  - [x]  2024/12/07 - 外飾完成50%
+  - [ ]  2024/12/?? - 外飾完成60%
 - [ ]  2025/Q3 屋突層落架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
@@ -208,6 +209,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2024/12/07 - 屋突外飾/貼磚/室內裝修
+![image](https://github.com/user-attachments/assets/077292e4-88c5-4300-b251-a2455ada53e1)
+![image](https://github.com/user-attachments/assets/2238259e-d85c-48fd-8b71-e885ef493352)
+![image](https://github.com/user-attachments/assets/3bc644fd-0ac7-42d8-9f74-87abb82f117d)
+![image](https://github.com/user-attachments/assets/037efbbb-02ce-4e90-bd40-ab6852fc741a)
+![image](https://github.com/user-attachments/assets/2b66e72d-2434-4f9f-a4f4-3e58bebf4de2)
+![image](https://github.com/user-attachments/assets/2cba2b1e-cdc3-4b88-ae6a-4a9abc415612)
 
 - 2024/11/30 - 屋突外飾/貼磚/室內裝修
 ![image](https://github.com/user-attachments/assets/3560bfd0-1b55-4000-82b2-11617b81c42b)
