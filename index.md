@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/12/07更新)
+### 目前進度 (2024/12/14更新)
 
 - 屋突外飾/貼磚/室內裝修進行中
 
@@ -15,8 +15,7 @@
 ![346263021-4958e2ab-ec55-480b-8df5-baacd3699fe6](https://github.com/user-attachments/assets/469c2bb4-fe45-4049-bed0-94b969eec66f)
 
 - 地籍套繪  
-![image](https://github.com/user-attachments/assets/aed816f4-a62d-4164-852c-74ffe9455e93)
-
+![image](https://github.com/user-attachments/assets/47f05f73-d0e3-4485-8b54-46c7f5d8bc02)
 
 - 玄泰T1官方頁面
   * [玄泰T1 - 官方網頁](https://www.mzdesign.acsite.org/t1/index.html)(網頁掛了)
