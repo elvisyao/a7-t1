@@ -209,6 +209,13 @@
 ---
 ### 工程進度影像紀錄
 
+- 2024/12/14 - 屋突外飾/貼磚/室內裝修
+![image](https://github.com/user-attachments/assets/981564e1-e2ae-40a1-810c-affa87bba080)
+![image](https://github.com/user-attachments/assets/7eed5a8e-d94c-479a-8ec2-1596d62e277a)
+![image](https://github.com/user-attachments/assets/6c33a8b1-67b4-43bf-8e3d-2000d86ade25)
+![image](https://github.com/user-attachments/assets/751d4aaf-c67e-4921-9f6e-ccea5d307d90)
+![image](https://github.com/user-attachments/assets/c3250595-caa7-458a-ad45-10a2efd7e42b)
+
 - 2024/12/07 - 屋突外飾/貼磚/室內裝修
 ![image](https://github.com/user-attachments/assets/077292e4-88c5-4300-b251-a2455ada53e1)
 ![image](https://github.com/user-attachments/assets/2238259e-d85c-48fd-8b71-e885ef493352)
