@@ -12,7 +12,7 @@
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![346263021-4958e2ab-ec55-480b-8df5-baacd3699fe6](https://github.com/user-attachments/assets/469c2bb4-fe45-4049-bed0-94b969eec66f)
+![358476363-469c2bb4-fe45-4049-bed0-94b969eec66f](https://github.com/user-attachments/assets/4fc4ad04-c754-4f6c-b75a-71513d6a9b64)
 
 - 地籍套繪  
 ![image](https://github.com/user-attachments/assets/a818a7cb-1fbc-420b-9458-643d83fd6f9a)
