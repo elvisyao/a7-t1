@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2024/12/31更新)
+### 目前進度 (2025/01/05更新)
 
 - 屋突外飾/外牆貼磚/室內裝修 進行中
 
@@ -209,6 +209,15 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/01/05 - 開始屋突外牆貼磚 + 17~25F 外牆貼磚
+![image](https://github.com/user-attachments/assets/eaeb2d4b-8a6e-4b8c-91f8-d58db9c5eaf2)
+![image](https://github.com/user-attachments/assets/82c7a18c-0a93-4997-8145-7b02b49a6df4)
+![image](https://github.com/user-attachments/assets/6714f4ba-23d2-42c7-9dac-8a0a1fee7895)
+![image](https://github.com/user-attachments/assets/1cb8c310-fd4a-41e5-b4e4-3155e1905809)
+![image](https://github.com/user-attachments/assets/9096535f-b99d-4ef0-8e5b-d720c332e58b)
+![image](https://github.com/user-attachments/assets/cd69d02b-ecec-4a3c-b09c-e3c7a43d1c43)
+![image](https://github.com/user-attachments/assets/f83152ab-1137-47a8-9d25-8052951498fa)
 
 - 2024/12/31 - 開始屋突外牆貼磚 + 17~25F 外牆貼磚
 ![image](https://github.com/user-attachments/assets/6fa76895-3736-4466-a59f-df8da08c663f)
