@@ -12,7 +12,7 @@
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![358476363-469c2bb4-fe45-4049-bed0-94b969eec66f](https://github.com/user-attachments/assets/065d9e05-f71a-4b17-a496-786f879a2292)
+![358476363-469c2bb4-fe45-4049-bed0-94b969eec66f](https://github.com/user-attachments/assets/a4a3976c-4c05-4137-a70b-0fce7d0ef6ea)
 
 - 地籍套繪  
 ![image](https://github.com/user-attachments/assets/a818a7cb-1fbc-420b-9458-643d83fd6f9a)
@@ -209,6 +209,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/01/12 - 外牆貼磚 + 17~25F 外牆貼磚
+![image](https://github.com/user-attachments/assets/7ae8d75c-3770-420c-942b-a8df41fc7a77)
+![image](https://github.com/user-attachments/assets/d18e91d0-230c-4e62-8746-af00f3c8a08d)
+![image](https://github.com/user-attachments/assets/1d791fa3-db81-405a-8e21-3c046187726d)
+![image](https://github.com/user-attachments/assets/b1b9be21-a371-41f6-9890-32aac2f47370)
+![image](https://github.com/user-attachments/assets/d731a5f4-5d75-4005-8856-bbb08fd11453)
 
 - 2025/01/05 - 開始屋突外牆貼磚 + 17~25F 外牆貼磚
 ![image](https://github.com/user-attachments/assets/eaeb2d4b-8a6e-4b8c-91f8-d58db9c5eaf2)
