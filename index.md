@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/02/17更新)
+### 目前進度 (2025/02/28更新)
 
-- 屋突外飾/外牆貼磚/室內裝修/電梯安裝
+- 屋突外飾/外牆貼磚/室內裝修
 
 ---
 ### 相關資訊連結
@@ -105,7 +105,7 @@
   - [x]  2024/11/16 - 外飾完成40%
   - [x]  2024/12/07 - 外飾完成50%
   - [x]  2024/12/31 - 外飾完成60%
-  - [ ]  2025/01/?? - 外飾完成70%
+  - [ ]  2025/03/?? - 外飾完成70%
 - [ ]  2025/Q3 屋突層落架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
@@ -213,7 +213,15 @@
 ---
 ### 工程進度影像紀錄
 
-- 2025/02/17 - 繼續開始外牆貼磚(17~25F)  
+- 2025/02/28 - 17~25F外牆貼磚  
+![image](https://github.com/user-attachments/assets/b649e3a5-9f82-4db9-806f-60b15332c452)
+![image](https://github.com/user-attachments/assets/b70db5e0-3bf8-4f44-bbee-991f384fea98)
+![image](https://github.com/user-attachments/assets/a460a6f4-3dcf-431a-b9f9-931742df927a)
+![image](https://github.com/user-attachments/assets/604ea292-e599-4f15-a959-9930ae146bc7)
+![image](https://github.com/user-attachments/assets/12e188aa-4f3e-4879-9ef3-76ae9226b045)
+![image](https://github.com/user-attachments/assets/8f104b8b-a3ed-4205-8bdc-8cb8c6ccaf4d)
+
+- 2025/02/17 - 開始17~25F外牆貼磚  
 ![image](https://github.com/user-attachments/assets/474a3985-2ee4-4f6d-9073-49657e657c19)
 
 - 2025/02/15 - 屋突外飾/外牆貼磚/室內裝修/電梯安裝  
