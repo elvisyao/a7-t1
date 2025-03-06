@@ -20,6 +20,9 @@
 - 門牌資訊 (2024/01/15)  
 ![image](https://github.com/user-attachments/assets/4df6256e-5845-4a40-ad7c-f48828d784f6)
 
+- 暫收款  
+![image](https://github.com/user-attachments/assets/fa3c7716-91d2-45da-8fff-bd8cd1e1753b)
+
 - 玄泰T1官方頁面
   * [玄泰T1 - 官方網頁](https://www.mzdesign.acsite.org/t1/index.html)(網頁掛了)
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
@@ -125,7 +128,7 @@
   * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/ECDefault.aspx) > 新繳款人專區 > 預售屋價金信託查詢 > 群泰開發 > 5297 玄泰T1  
     ![image](https://github.com/elvisyao/a7-t1/assets/19199144/2b2a12d9-e366-461a-a9aa-e67cf51d4cde)
     * 繳款人代碼: 身分證後八碼
-    * 第一次登入，帳號跟密碼都是身份證後8碼
+    * 第一次登入，帳號跟密碼都是身份證後8碼    
   * 繳款進度  
     - [x]  2021/12 訂簽開 10%
     - [x]  2023/03 一樓底板 3%
@@ -216,7 +219,7 @@
 ---
 ### 工程進度影像紀錄
 
-- 2025/03/06 - 17~25F A棟開始外牆貼磚  
+- 2025/03/06 - 17~25F 屋突結構落架, A棟開始外牆貼磚  
 ![image](https://github.com/user-attachments/assets/2d20a4c7-b1d6-42bd-922e-dbc6723a80d0)
 ![image](https://github.com/user-attachments/assets/a3b2be9e-f7b7-47a0-93af-53140e5bb82b)
 
