@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/03/22更新)
+### 目前進度 (2025/03/24更新)
 
-- 屋突外飾/外牆貼磚/室內裝修
+- 屋突外飾/外牆貼磚/室內裝修/試燈
 
 ---
 ### 相關資訊連結
@@ -218,6 +218,11 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/03/24 - 部分試燈
+![image](https://github.com/user-attachments/assets/b7d5601b-fd49-42ad-9ba2-ae124784fe88)
+![image](https://github.com/user-attachments/assets/d244f785-3613-4f08-8afb-cb83208d115f)
+![image](https://github.com/user-attachments/assets/7326f81c-90b2-42cb-92a9-104b7205b29c)
 
 - 2025/03/22 - 17~25F 外牆貼磚, 屋突外飾組裝完成
 ![image](https://github.com/user-attachments/assets/4347dfeb-6d72-4f22-8722-078a78a5eeb3)
