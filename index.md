@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/03/24更新)
+### 目前進度 (2025/03/29更新)
 
 - 屋突外飾/外牆貼磚/室內裝修/試燈
 
@@ -109,9 +109,9 @@
   - [x]  2024/12/07 - 外飾完成50%
   - [x]  2024/12/31 - 外飾完成60%
   - [x]  2025/03/06 - 外飾完成70%
-  - [ ]  2025/03/?? - 外飾完成80%
+  - [x]  2025/03/31 - 外飾完成80%
   - [ ]  2025/04/?? - 外飾完成90%
-  - [ ]  2025/05/?? - 外飾完成100%
+  - [ ]  2025/04/?? - 外飾完成100%
 - [ ]  2025/Q3 屋突層落架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
@@ -218,6 +218,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/03/29 - 17~25F ACD棟外牆貼磚, A棟屋突層落架  
+![image](https://github.com/user-attachments/assets/ffd66898-b813-462d-a121-f9eb329b6a2b)
+![image](https://github.com/user-attachments/assets/ea3a0dce-fdbe-49df-ad6c-985d59bc6e91)
+![image](https://github.com/user-attachments/assets/7fa51c44-076d-4ddd-9bec-519c75c9b08d)
+![image](https://github.com/user-attachments/assets/0c5f7cc1-7870-43d4-ad14-4a764187922f)
+![image](https://github.com/user-attachments/assets/279687fe-628b-47b9-9100-6a1992181706)
 
 - 2025/03/24 - 部分試燈
 ![image](https://github.com/user-attachments/assets/b7d5601b-fd49-42ad-9ba2-ae124784fe88)
