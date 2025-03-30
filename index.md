@@ -112,7 +112,11 @@
   - [x]  2025/03/31 - 外飾完成80%
   - [ ]  2025/04/?? - 外飾完成90%
   - [ ]  2025/04/?? - 外飾完成100%
-- [ ]  2025/Q3 屋突層落架
+- [ ]  2025/Q2 屋突層落架
+  - [x]  2025/03/28 A棟屋突層落架
+  - [ ]  2025/04/?? B棟屋突層落架
+  - [ ]  2025/04/?? C棟屋突層落架
+  - [ ]  2025/04/?? D棟屋突層落架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
 - [ ]  2025/Q4 消檢
@@ -219,7 +223,7 @@
 ---
 ### 工程進度影像紀錄
 
-- 2025/03/29 - 17~25F ACD棟外牆貼磚, A棟屋突層落架  
+- 2025/03/29 - 17~25F ACD棟外牆貼磚, A棟屋突層落架+拆除工程電梯  
 ![image](https://github.com/user-attachments/assets/ffd66898-b813-462d-a121-f9eb329b6a2b)
 ![image](https://github.com/user-attachments/assets/ea3a0dce-fdbe-49df-ad6c-985d59bc6e91)
 ![image](https://github.com/user-attachments/assets/7fa51c44-076d-4ddd-9bec-519c75c9b08d)
