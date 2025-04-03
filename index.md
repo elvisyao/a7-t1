@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/03/29更新)
+### 目前進度 (2025/04/03更新)
 
 - 屋突外飾/外牆貼磚/室內裝修/試燈
 
@@ -222,6 +222,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/04/02 - 建案名稱看板試燈  
+![image](https://github.com/user-attachments/assets/de04e005-b144-496c-b76e-1f91098c2449)
+![image](https://github.com/user-attachments/assets/e5c0f636-bbaf-4e1b-b25f-2e8cdbda8547)
+![image](https://github.com/user-attachments/assets/45507ecb-5c4c-4ea3-a6f9-56739ec19a2e)
+![image](https://github.com/user-attachments/assets/a44886bc-d66f-4f19-aee8-59ef11ff6cbd)
+![image](https://github.com/user-attachments/assets/f9e5a763-1794-4c7d-b977-e8af3b6f1256)
+![image](https://github.com/user-attachments/assets/772b2d22-78d0-4391-8af6-6ff4743900cd)
 
 - 2025/03/29 - 17~25F ACD棟外牆貼磚, A棟屋突層落架+拆除工程電梯  
 ![image](https://github.com/user-attachments/assets/ffd66898-b813-462d-a121-f9eb329b6a2b)
