@@ -114,7 +114,7 @@
   - [ ]  2025/04/?? - 外飾完成100%
 - [ ]  2025/Q2 屋突層落架
   - [x]  2025/03/28 A棟屋突層落架
-  - [ ]  2025/04/?? B棟屋突層落架
+  - [x]  2025/04/03 B棟屋突層落架
   - [ ]  2025/04/?? C棟屋突層落架
   - [ ]  2025/04/?? D棟屋突層落架
 - [ ]  2025/Q3 落架完成
@@ -222,6 +222,15 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/04/03 - B棟屋突層落架  
+![image](https://github.com/user-attachments/assets/6c3cb1eb-284f-44b3-a0a0-3ef3cbe33d1a)
+![image](https://github.com/user-attachments/assets/eda77125-47de-4bc9-8021-1cf7b61160b5)
+![image](https://github.com/user-attachments/assets/849aefb7-a5e0-4646-86c1-91cde56f34d7)
+![image](https://github.com/user-attachments/assets/accc9062-47ba-4299-a579-e6997047b45c)
+![image](https://github.com/user-attachments/assets/7ec1dca2-0cc3-49c7-8b23-c8aacdaa0139)
+![image](https://github.com/user-attachments/assets/93a3647b-ac5f-4bf6-814e-1d0e3aed0ee7)
+![image](https://github.com/user-attachments/assets/7fa4b5f6-a3b9-4fa4-af97-d7eea017dc80)
 
 - 2025/04/02 - 建案名稱看板試燈  
 ![image](https://github.com/user-attachments/assets/de04e005-b144-496c-b76e-1f91098c2449)
