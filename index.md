@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/04/03更新)
+### 目前進度 (2025/04/04更新)
 
-- 屋突外飾/外牆貼磚/室內裝修/試燈
+- 外牆貼磚/室內裝修/試燈
 
 ---
 ### 相關資訊連結
@@ -112,11 +112,11 @@
   - [x]  2025/03/31 - 外飾完成80%
   - [ ]  2025/04/?? - 外飾完成90%
   - [ ]  2025/04/?? - 外飾完成100%
-- [ ]  2025/Q2 屋突層落架
+- [x]  2025/Q2 屋突層落架
   - [x]  2025/03/28 A棟屋突層落架
   - [x]  2025/04/03 B棟屋突層落架
-  - [ ]  2025/04/?? C棟屋突層落架
-  - [ ]  2025/04/?? D棟屋突層落架
+  - [x]  2025/04/04 C棟屋突層落架
+  - [x]  2025/03/06 D棟屋突層落架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
 - [ ]  2025/Q4 消檢
@@ -222,6 +222,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/04/04 - C棟屋突層落架  
+![image](https://github.com/user-attachments/assets/3f0023ec-546f-4872-b90a-818810c97e6d)
+![image](https://github.com/user-attachments/assets/48aaf4e0-a2f5-46be-a7eb-b6fe800e14c6)
+![image](https://github.com/user-attachments/assets/9e42acf3-9561-4dd0-90eb-a7ba620dd020)
+![image](https://github.com/user-attachments/assets/2d5a750e-2376-4b4a-849b-a737fd397265)
+![image](https://github.com/user-attachments/assets/72bb1649-ae79-40e9-98e1-f67c6e7efb68)
+![image](https://github.com/user-attachments/assets/8d36a9bb-8df8-41f1-8ae8-f4aab8800a3d)
 
 - 2025/04/03 - B棟屋突層落架  
 ![image](https://github.com/user-attachments/assets/6c3cb1eb-284f-44b3-a0a0-3ef3cbe33d1a)
