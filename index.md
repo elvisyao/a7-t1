@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/04/04更新)
+### 目前進度 (2025/04/12更新)
 
-- 外牆貼磚/室內裝修/試燈
+- 外牆貼磚/室內裝修/試燈/工程電梯拆除
 
 ---
 ### 相關資訊連結
@@ -112,7 +112,7 @@
   - [x]  2025/03/31 - 外飾完成80%
   - [ ]  2025/04/?? - 外飾完成90%
   - [ ]  2025/04/?? - 外飾完成100%
-- [x]  2025/Q2 屋突層落架
+- [x]  2025/04 屋突層落架
   - [x]  2025/03/28 A棟屋突層落架
   - [x]  2025/04/03 B棟屋突層落架
   - [x]  2025/04/04 C棟屋突層落架
@@ -222,6 +222,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/04/12 - D棟拆除工程電梯  
+![image](https://github.com/user-attachments/assets/9b07db5d-c620-429a-920b-2cb56edc22eb)
+![image](https://github.com/user-attachments/assets/7fe5bdea-af0d-49a2-8503-2cdf524803e2)
+![image](https://github.com/user-attachments/assets/e45f6a02-0916-4e08-9f71-df6cd24c3117)
+![image](https://github.com/user-attachments/assets/d37b5ade-04ad-49e6-bee4-2bc59c5da0a4)
+![image](https://github.com/user-attachments/assets/a7aac409-50a9-40ce-8005-e02c55f75b93)
+![image](https://github.com/user-attachments/assets/4ab1510f-3e00-4288-86ef-a18c5d951a0e)
 
 - 2025/04/04 - C棟屋突層落架  
 ![image](https://github.com/user-attachments/assets/3f0023ec-546f-4872-b90a-818810c97e6d)
