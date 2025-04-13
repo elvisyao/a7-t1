@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/04/12更新)
+### 目前進度 (2025/04/13更新)
 
-- 外牆貼磚/室內裝修/試燈/工程電梯拆除
+- 外牆貼磚/室內裝修/試燈/工程電梯拆除/玻璃窗安裝
 
 ---
 ### 相關資訊連結
@@ -110,13 +110,14 @@
   - [x]  2024/12/31 - 外飾完成60%
   - [x]  2025/03/06 - 外飾完成70%
   - [x]  2025/03/31 - 外飾完成80%
-  - [ ]  2025/04/?? - 外飾完成90%
+  - [x]  2025/04/14 - 外飾完成90%
   - [ ]  2025/04/?? - 外飾完成100%
 - [x]  2025/04 屋突層落架
   - [x]  2025/03/28 A棟屋突層落架
   - [x]  2025/04/03 B棟屋突層落架
   - [x]  2025/04/04 C棟屋突層落架
   - [x]  2025/03/06 D棟屋突層落架
+- [ ]  2025/Q3 開始落架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
 - [ ]  2025/Q4 消檢
@@ -222,6 +223,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/04/13 - 17~25F CD棟外牆貼磚/玻璃窗安裝  
+![image](https://github.com/user-attachments/assets/13a563ab-1a7f-4041-8a2b-a5c33fdeb37a)
+![image](https://github.com/user-attachments/assets/77df3b5a-9829-472f-b5df-c99ce9bcb730)
+![image](https://github.com/user-attachments/assets/945cf41f-35be-47fd-a90c-4c8b4ff6b36a)
+![image](https://github.com/user-attachments/assets/89e06bb4-912b-4ea6-a52a-ab1b8d7e38f9)
+![image](https://github.com/user-attachments/assets/93d187f3-3e60-4362-8467-4953eaefd3db)
 
 - 2025/04/12 - D棟拆除工程電梯  
 ![image](https://github.com/user-attachments/assets/9b07db5d-c620-429a-920b-2cb56edc22eb)
