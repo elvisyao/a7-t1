@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/04/19更新)
+### 目前進度 (2025/04/27更新)
 
 - 外牆貼磚/室內裝修/試燈/玻璃窗安裝
 
@@ -223,6 +223,12 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/04/27 - D棟外牆貼磚/玻璃窗安裝  
+![image](https://github.com/user-attachments/assets/fc76b420-0500-4812-bf1a-60383f959e7a)
+![image](https://github.com/user-attachments/assets/fe565da8-5bb5-4841-a284-2083df38fea7)
+![image](https://github.com/user-attachments/assets/dccdd09a-d833-42ba-b3aa-2c36f65180b3)
+![image](https://github.com/user-attachments/assets/e0f068e3-a188-4db0-a229-67a23d6ad086)
 
 - 2025/04/19 - D棟外牆貼磚/玻璃窗安裝  
 ![image](https://github.com/user-attachments/assets/db089dd4-c3e7-46b9-ac65-33e0114d9aef)
