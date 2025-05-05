@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/05/01更新)
+### 目前進度 (2025/05/05更新)
 
 - 室內裝修/試燈/瓦斯外管安裝
 
@@ -111,7 +111,7 @@
   - [x]  2025/03/06 - 外飾貼磚完成70%
   - [x]  2025/03/31 - 外飾貼磚完成80%
   - [x]  2025/04/15 - 外飾貼磚完成90%
-  - [ ]  2025/05/?? - 外飾貼磚完成100%
+  - [x]  2025/05/05 - 外飾貼磚完成100%
 - [x]  2025/04 屋突層落架
   - [x]  2025/03/28 A棟屋突層落架
   - [x]  2025/04/03 B棟屋突層落架
@@ -225,6 +225,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/05/05 - 外牆貼磚完成/室內裝修/瓦斯外管安裝  
+![image](https://github.com/user-attachments/assets/05751822-c0d3-4a35-9bca-3fe51b7b58af)
+![image](https://github.com/user-attachments/assets/c74f247a-1f10-428f-adbb-88f89e75f6ca)
+![image](https://github.com/user-attachments/assets/713ae71b-92f7-4c07-bee7-d9d654e76018)
+![image](https://github.com/user-attachments/assets/442102ef-7129-410a-b185-e3ff5f516888)
+![image](https://github.com/user-attachments/assets/116328ac-b1df-4cb5-9afa-56293ae1cf37)
+![image](https://github.com/user-attachments/assets/e5db5bad-dcfe-4286-83e5-dfc08d38dc7f)
 
 - 2025/05/01 - D棟外牆貼磚/室內裝修/瓦斯外管安裝  
 ![image](https://github.com/user-attachments/assets/d75fd9f8-96bd-47f5-843a-cecea6570027)
