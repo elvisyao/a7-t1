@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/05/05更新)
+### 目前進度 (2025/05/10更新)
 
-- 室內裝修/試燈/瓦斯外管安裝
+- 室內裝修/試燈
 
 ---
 ### 相關資訊連結
@@ -119,7 +119,7 @@
   - [x]  2025/03/06 D棟屋突層落架
 - [ ]  2025/Q2 開始落架
   - [ ]  2025/05/?? 拆除塔吊
-  - [ ]  2025/06/?? 拆除鷹架
+  - [ ]  2025/05/?? 拆除鷹架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
 - [ ]  2025/Q4 消檢
@@ -225,6 +225,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/05/10 - 室內裝修/試燈  
+![image](https://github.com/user-attachments/assets/a75238e4-b836-402f-94b0-96486f940c99)
+![image](https://github.com/user-attachments/assets/9fa1c780-22d1-447d-8e89-9a5bb4742461)
+![image](https://github.com/user-attachments/assets/08c71daa-e519-415a-8f65-442b977fa961)
+![image](https://github.com/user-attachments/assets/d539b5eb-e6bf-405a-9921-106ea1b72812)
+![image](https://github.com/user-attachments/assets/dd9fe541-05be-45f4-a6bf-b124b6bf2eb2)
 
 - 2025/05/05 - 外牆貼磚完成/室內裝修/瓦斯外管安裝  
 ![image](https://github.com/user-attachments/assets/05751822-c0d3-4a35-9bca-3fe51b7b58af)
