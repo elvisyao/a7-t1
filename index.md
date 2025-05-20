@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/05/10更新)
+### 目前進度 (2025/05/20更新)
 
-- 室內裝修/試燈
+- 室內裝修/試燈/塔吊A拆除
 
 ---
 ### 相關資訊連結
@@ -118,7 +118,8 @@
   - [x]  2025/04/04 C棟屋突層落架
   - [x]  2025/03/06 D棟屋突層落架
 - [ ]  2025/Q2 開始落架
-  - [ ]  2025/05/?? 拆除塔吊
+  - [x]  2025/05/21 拆除塔吊A
+  - [ ]  2025/05/28 拆除塔吊B
   - [ ]  2025/05/?? 拆除鷹架
 - [ ]  2025/Q3 落架完成
 - [ ]  2025/Q3 開始申請使照
@@ -225,6 +226,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/05/20 - 室內裝修/試燈/拆除塔吊A  
+![image](https://github.com/user-attachments/assets/a840b4ae-9a1e-46cf-8615-be3569580dff)
+![image](https://github.com/user-attachments/assets/74c7c595-2db4-436f-9f98-d95776dac59b)
+![image](https://github.com/user-attachments/assets/3ec981b2-e3f9-4403-8756-0bb2e82ada52)
+![image](https://github.com/user-attachments/assets/0fb65a30-3fa4-4475-b1ac-1f67706799a9)
+![image](https://github.com/user-attachments/assets/baf90d37-0944-4577-9bee-b6662e930a87)
 
 - 2025/05/10 - 室內裝修/試燈  
 ![image](https://github.com/user-attachments/assets/a75238e4-b836-402f-94b0-96486f940c99)
