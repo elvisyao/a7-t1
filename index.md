@@ -58,7 +58,7 @@
 - [x]  2022/02 土方開挖, 支撐工程
 - [x]  2022/06 開始地下層結構工程
   - [x]  2022/06/28 筏基PC層
-  - [x]  2202/07/15 筏基FS層
+  - [x]  2022/07/15 筏基FS層
   - [x]  2022/08/04 筏基BS層
   - [x]  2022/08/12 第四撐拆撐
   - [x]  2022/09/14 B5F施作完成
@@ -926,7 +926,7 @@
 - 2022/07/21 - FS層灌漿
 ![image](https://user-images.githubusercontent.com/19199144/180105840-f9dbcdc8-0840-46d2-8dec-9cc5e27d88d8.png)
 
-- 2202/07/15 - FS層/綁地樑鋼筋
+- 2022/07/15 - FS層/綁地樑鋼筋
 
   <video src="https://user-images.githubusercontent.com/19199144/179143654-dfe80247-c300-49cd-ad3d-41bd58d51840.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
@@ -936,11 +936,11 @@
 
   <video src="https://user-images.githubusercontent.com/19199144/176094058-b05ce7ad-9d9b-4c99-ba82-a91b1f32b417.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2202/06/26 - 支撐工程結束
+- 2022/06/26 - 支撐工程結束
 
   <video src="https://user-images.githubusercontent.com/19199144/175815379-c05271a5-b45d-492e-86b9-9cf8cc30c06c.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
 
-- 2202/06/24 - B5支撐工程結束, 怪手退場, 鋼筋進駐
+- 2022/06/24 - B5支撐工程結束, 怪手退場, 鋼筋進駐
 ![image](https://user-images.githubusercontent.com/19199144/175549552-8b3ecbdc-2145-4387-b834-89ac5bc78b22.png)
 
   <video src="https://user-images.githubusercontent.com/19199144/175551114-69e3f14c-88a4-48fb-a086-437f7e7b13c9.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2" style="max-height:640px;max-width:320px;">
