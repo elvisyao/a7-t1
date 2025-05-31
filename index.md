@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/05/29更新)
+### 目前進度 (2025/06/01更新)
 
-- 室內裝修/試燈/塔吊B拆除完成
+- 室內裝修/試燈
 
 ---
 ### 相關資訊連結
@@ -227,6 +227,15 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/05/31 - 室內裝修/試燈  
+![image](https://github.com/user-attachments/assets/45a8afc0-9494-426d-8150-949983a1092d)
+![image](https://github.com/user-attachments/assets/0ccb29a6-a00b-4e10-a364-6bed69961403)
+![image](https://github.com/user-attachments/assets/800b6f0a-c4a8-4ea9-a595-4c6d0ea30b93)
+![image](https://github.com/user-attachments/assets/3738bf7e-913d-46e1-a2cc-9e10dd959761)
+![image](https://github.com/user-attachments/assets/b61d2a8d-6b04-4bc7-a243-43678f20ae87)
+![image](https://github.com/user-attachments/assets/d0b94d2e-f0f5-4e4b-9045-851abf9fc579)
+![image](https://github.com/user-attachments/assets/69628c8f-d451-4763-bd02-51916c736549)
 
 - 2025/05/28 - 拆除塔吊B  
 ![image](https://github.com/user-attachments/assets/15262ea2-c9a4-4eb1-8f74-2c004ec1883f)
