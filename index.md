@@ -4,18 +4,18 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/06/16更新)
+### 目前進度 (2025/06/19更新)
 
-- 室內裝修/試燈/開始落架
+- 室內裝修/試燈/落架
 
 ---
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![358476363-469c2bb4-fe45-4049-bed0-94b969eec66f](https://github.com/user-attachments/assets/a4a3976c-4c05-4137-a70b-0fce7d0ef6ea)
+![402364182-a4a3976c-4c05-4137-a70b-0fce7d0ef6ea](https://github.com/user-attachments/assets/11fa1f1e-c6cc-42b1-9160-b038412ef495)
 
 - 地籍套繪  
-![image](https://github.com/user-attachments/assets/a818a7cb-1fbc-420b-9458-643d83fd6f9a)
+![image](https://github.com/user-attachments/assets/268c55ee-77c6-4553-9197-f00eb7d232d0)
 
 - 門牌資訊 (2024/01/15)  
 ![image](https://github.com/user-attachments/assets/4df6256e-5845-4a40-ad7c-f48828d784f6)
@@ -228,6 +228,8 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/06/19 - A/B棟落架中  
 
 - 2025/06/16 - 開始落架  
 ![image](https://github.com/user-attachments/assets/b5f38e2f-1ae1-4c00-84e0-dd15b9837500)
