@@ -230,6 +230,9 @@
 ### 工程進度影像紀錄
 
 - 2025/06/19 - A/B棟落架中  
+![image](https://github.com/user-attachments/assets/7f523947-d86d-4547-b519-f97089c9b22f)
+![image](https://github.com/user-attachments/assets/69e3ff7d-1e43-44c4-bd26-0917781138de)
+![image](https://github.com/user-attachments/assets/b7527165-3106-4db6-8f07-ea64fed218b0)
 
 - 2025/06/16 - 開始落架  
 ![image](https://github.com/user-attachments/assets/b5f38e2f-1ae1-4c00-84e0-dd15b9837500)
