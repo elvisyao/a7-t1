@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/06/27更新)
+### 目前進度 (2025/07/01更新)
 
 - 室內裝修/試燈/落架
 
@@ -228,6 +228,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/06/30 - BC棟試燈  
+![image](https://github.com/user-attachments/assets/ae07297a-aa51-4611-b62a-e5c105ae047f)
+![image](https://github.com/user-attachments/assets/e23a4e5c-9ee1-4592-8fbf-099861356089)
+![image](https://github.com/user-attachments/assets/d2062951-8ecd-4467-8b58-046c1756a469)
+![image](https://github.com/user-attachments/assets/285a3546-77e3-4087-90ee-4407edfae3c1)
+![image](https://github.com/user-attachments/assets/98a28d61-5231-4a7f-81c5-4c0303cb7f4a)
 
 - 2025/06/27 - 落架中(50%)  
 ![image](https://github.com/user-attachments/assets/6da8427b-e24b-4ced-9aa4-e3931d23405a)
