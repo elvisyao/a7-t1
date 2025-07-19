@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/07/08更新)
+### 目前進度 (2025/07/19更新)
 
 - 室內裝修/試燈/落架
 
@@ -228,6 +228,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/07/19 - ABC棟落架中
+<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/144a0412-6eea-4d95-94be-fb193a2f3457" />
+<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/bf8218e5-ee88-4dad-ad4b-60becb6edd76" />
+<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/19c699de-d341-4499-a3f2-6e2cf5aa668f" />
+<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/376893b6-d567-4775-a537-f96e037a8a6d" />
+<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/bc673197-ebca-4ae3-bdde-9f7f945c031d" />
+<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/458961d9-04b1-417a-9604-ebb374cc3e73" />
 
 - 2025/07/08 - 落架中(50%)  
 ![image](https://github.com/user-attachments/assets/2e4d69b1-8ce3-41ea-81c4-ec8ddb60ed77)
