@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/07/19更新)
+### 目前進度 (2025/07/26更新)
 
 - 室內裝修/試燈/落架
 
@@ -229,13 +229,22 @@
 ---
 ### 工程進度影像紀錄
 
+- 2025/07/21 - C棟落架中, ABD棟落架完成  
+![image](https://github.com/user-attachments/assets/1c5c8a67-23be-44a5-a39c-f6366b3a29af)
+![image](https://github.com/user-attachments/assets/bfa26b00-3595-46c6-b212-5be9a5c8aa8f)
+![image](https://github.com/user-attachments/assets/ae7959db-c14a-4f09-bff2-95a3565a5f33)
+![image](https://github.com/user-attachments/assets/343f1dff-99f1-4d22-802b-7329af0a3510)
+![image](https://github.com/user-attachments/assets/03f36f0f-c64f-4972-8858-9c21bcca2882)
+![image](https://github.com/user-attachments/assets/2d69bf60-0d30-410b-a8b8-387ac5fbfa93)
+![image](https://github.com/user-attachments/assets/0b362719-a48a-4a17-a5ca-5c99d5411bfb)
+
 - 2025/07/19 - ABC棟落架中
-<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/144a0412-6eea-4d95-94be-fb193a2f3457" />
-<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/bf8218e5-ee88-4dad-ad4b-60becb6edd76" />
-<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/19c699de-d341-4499-a3f2-6e2cf5aa668f" />
-<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/376893b6-d567-4775-a537-f96e037a8a6d" />
-<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/bc673197-ebca-4ae3-bdde-9f7f945c031d" />
-<img width="1215" height="911" alt="image" src="https://github.com/user-attachments/assets/458961d9-04b1-417a-9604-ebb374cc3e73" />
+![image](https://github.com/user-attachments/assets/144a0412-6eea-4d95-94be-fb193a2f3457)
+![image](https://github.com/user-attachments/assets/bf8218e5-ee88-4dad-ad4b-60becb6edd76)
+![image](https://github.com/user-attachments/assets/19c699de-d341-4499-a3f2-6e2cf5aa668f)
+![image](https://github.com/user-attachments/assets/376893b6-d567-4775-a537-f96e037a8a6d)
+![image](https://github.com/user-attachments/assets/bc673197-ebca-4ae3-bdde-9f7f945c031d)
+![image](https://github.com/user-attachments/assets/458961d9-04b1-417a-9604-ebb374cc3e73)
 
 - 2025/07/08 - 落架中(50%)  
 ![image](https://github.com/user-attachments/assets/2e4d69b1-8ce3-41ea-81c4-ec8ddb60ed77)
