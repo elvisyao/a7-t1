@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/07/26更新)
+### 目前進度 (2025/07/27更新)
 
-- 室內裝修/試燈/落架
+- 落架完成/室內裝修
 
 ---
 ### 相關資訊連結
@@ -117,12 +117,12 @@
   - [x]  2025/04/03 B棟屋突層落架
   - [x]  2025/04/04 C棟屋突層落架
   - [x]  2025/03/06 D棟屋突層落架
-- [ ]  2025/05 開始拆除塔吊/試燈/落架
+- [x]  2025/05 開始拆除塔吊/試燈/落架
   - [x]  2025/05/21 拆除塔吊A完成
   - [x]  2025/05/28 拆除塔吊B完成
   - [x]  2025/06/07 開始試燈
   - [x]  2025/06/16 開始落架
-  - [ ]  2025/07/?? 落架完成
+  - [x]  2025/07/27 落架完成
 - [ ]  2025/09 申請使照
 - [ ]  2025/10 對保
 - [ ]  2025/10 暫收款(1-3F: 25萬, 4-25F: 15萬)
@@ -229,7 +229,15 @@
 ---
 ### 工程進度影像紀錄
 
-- 2025/07/21 - C棟落架中, ABD棟落架完成  
+- 2025/07/27 - 落架完成  
+![image](https://github.com/user-attachments/assets/b9e889ce-0473-49e8-b694-a9df50b92f7a)
+![image](https://github.com/user-attachments/assets/30c7edcd-0896-4db0-87af-2ad46c97a0a1)
+![image](https://github.com/user-attachments/assets/72e0e03a-6401-42df-9b83-a5662c3353c0)
+![image](https://github.com/user-attachments/assets/44b47dc3-1f72-4e5b-ad59-f11c16df402f)
+![image](https://github.com/user-attachments/assets/153a63dc-e5d7-4057-9eb2-f007bcd31210)
+![image](https://github.com/user-attachments/assets/b740d450-7d37-4b1c-b374-c244d4e4a2c8)
+
+- 2025/07/26 - C棟落架中, ABD棟落架完成  
 ![image](https://github.com/user-attachments/assets/1c5c8a67-23be-44a5-a39c-f6366b3a29af)
 ![image](https://github.com/user-attachments/assets/bfa26b00-3595-46c6-b212-5be9a5c8aa8f)
 ![image](https://github.com/user-attachments/assets/ae7959db-c14a-4f09-bff2-95a3565a5f33)
