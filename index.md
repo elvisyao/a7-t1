@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/07/27更新)
+### 目前進度 (2025/08/03更新)
 
-- 落架完成/室內裝修
+- 室內裝修
 
 ---
 ### 相關資訊連結
@@ -228,6 +228,14 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/08/03 - 室內裝修  
+![image](https://github.com/user-attachments/assets/b8fc8a01-e70f-47ea-8180-25b2af735e66)
+![image](https://github.com/user-attachments/assets/ab09fc95-89a0-4e72-b010-161f79baaa20)
+![image](https://github.com/user-attachments/assets/c5c8642b-b2a2-47d2-82bc-c4fc6fb05933)
+![image](https://github.com/user-attachments/assets/19fb4425-72dc-4d17-9e9b-3677ff4693e5)
+![image](https://github.com/user-attachments/assets/6ff13502-cb24-41e2-86d0-9ef2f27570cc)
+![image](https://github.com/user-attachments/assets/71ed79e4-65f3-4bec-a5c5-5665772f4342)
 
 - 2025/07/27 - 落架完成  
 ![image](https://github.com/user-attachments/assets/b9e889ce-0473-49e8-b694-a9df50b92f7a)
