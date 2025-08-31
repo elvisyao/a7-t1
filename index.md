@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/08/24更新)
+### 目前進度 (2025/08/31更新)
 
-- 室內裝修
+- 室內裝修/1~4樓下鷹架
 
 ---
 ### 相關資訊連結
@@ -228,6 +228,17 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/08/31 - 室內裝修/1~4樓落架  
+![image](https://github.com/user-attachments/assets/f3570e81-d2c3-4825-b903-ee8534d4c253)
+
+- 2025/08/29 - 室內裝修/1~4樓落架  
+![image](https://github.com/user-attachments/assets/a311c28a-d220-4b48-8348-0c0eecd71480)
+![image](https://github.com/user-attachments/assets/05acea7b-c2a6-4428-894d-9684e61e0efa)
+![image](https://github.com/user-attachments/assets/a418ef31-abbf-4dbe-b0dc-2f551466868b)
+![image](https://github.com/user-attachments/assets/404284f7-2d4c-4657-b377-54cad903a754)
+![image](https://github.com/user-attachments/assets/e844a786-b57b-45be-bfeb-86371c18b472)
+![image](https://github.com/user-attachments/assets/efd96521-efd3-4376-8455-0f290b952d12)
 
 - 2025/08/24 - 室內裝修/1~4樓落架  
 ![image](https://github.com/user-attachments/assets/9987e52a-2c9e-4a69-b180-35e1682e1573)
