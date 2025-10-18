@@ -4,9 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2025/09/13更新)
+### 目前進度 (2025/10/18更新)
 
-- 室內裝修/廣場裝修
+- 室內裝修/廣場裝修/裝設遮雨棚
 
 ---
 ### 相關資訊連結
@@ -123,6 +123,7 @@
   - [x]  2025/06/07 開始試燈
   - [x]  2025/06/16 開始落架
   - [x]  2025/09/02 落架完成
+- [ ]  2025/11 拆除圍籬
 - [ ]  2025/12 申請使照
 - [ ]  2026/02 對保
 - [ ]  2026/02 暫收款(1-3F: 25萬, 4-25F: 15萬)
@@ -228,6 +229,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2025/10/18 - 室內裝修/廣場裝修/裝設遮雨棚
+![image](https://github.com/user-attachments/assets/b127ead8-355e-4342-a93a-2f2b0968eaf4)
+![image](https://github.com/user-attachments/assets/d71fd7bc-0b25-40e8-a076-c75f514f3504)
+![image](https://github.com/user-attachments/assets/8b842e6d-935e-459b-81bf-a3897463b276)
+![image](https://github.com/user-attachments/assets/358865c9-97be-4998-b2f2-74666d269ceb)
+![image](https://github.com/user-attachments/assets/a1923ad4-af61-4e99-a35d-0758fef669d6)
 
 - 2025/09/13 - 室內外裝修  
 ![image](https://github.com/user-attachments/assets/98ad23b5-57b3-4be0-bf79-11785d64c366)
