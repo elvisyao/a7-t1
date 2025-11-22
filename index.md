@@ -237,7 +237,7 @@
 ![image](https://github.com/user-attachments/assets/7234b307-d83e-400b-9ff1-77f1ce2aad58)
 ![image](https://github.com/user-attachments/assets/e8688cec-ad04-40de-9d51-e3febe192551)
 
-- 2025/11/17 - 初申請使照
+- 2025/11/17 - 初申請使照  
 ![image](https://github.com/user-attachments/assets/d5c87239-9582-4d16-9fb7-1057e24f7587)
 
 - 2025/10/18 - 室內裝修/廣場裝修/裝設遮雨棚
