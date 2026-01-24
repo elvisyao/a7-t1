@@ -230,7 +230,6 @@
 ### 工程進度影像紀錄
 
 - 2026/01/24 - 室內裝修/工程圍籬拆除整理/使照款
-
 ![image](https://github.com/user-attachments/assets/fd71211d-c773-43fa-b14e-abc41f591264)
 ![image](https://github.com/user-attachments/assets/f610d2aa-1a4d-41be-b96b-f4c730677356)
 ![image](https://github.com/user-attachments/assets/20bf5464-a3df-4884-b9cb-72cbbb75f9fb)
