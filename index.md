@@ -4,7 +4,7 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2026/01/24更新)
+### 目前進度 (2026/02/05更新)
 
 - 室內裝修/申請使照/圍籬拆除整理
 
@@ -125,7 +125,7 @@
   - [x]  2025/09/02 落架完成
 - [x]  2025/11/17 初申請使照
 - [ ]  2026/02 拆除工程圍籬
-- [ ]  2026/03 對保+暫收款(1-3F: 25萬, 4-25F: 15萬)
+- [ ]  2026/03 對保
 - [ ]  2026/04 消檢
 - [ ]  2026/05 初驗
 - [ ]  2026/05 使照完成/複驗/交屋
@@ -146,7 +146,7 @@
     - [x]  2024/03 十六樓底板 3%
     - [x]  2024/10 屋頂板勘驗 3%
     - [x]  2025/12 使照申請 3%
-    - [ ]  2026/03 暫收款 (對保後, 1-3F: 25萬, 4-25F: 15萬)
+    - [ ]  2026/03 暫收款 (1-3F: 25萬, 4-25F: 15萬)
     - [ ]  2026/05 交屋保留款 5%
 
 ---
@@ -229,7 +229,14 @@
 ---
 ### 工程進度影像紀錄
 
-- 2026/01/24 - 室內裝修/工程圍籬拆除整理/使照款
+- 2026/02/05 - 室內裝修/工程圍籬拆除整理/通知對保
+![image](https://github.com/user-attachments/assets/6ab8e8e9-9c9b-4657-ad11-5df2da79a632)
+![image](https://github.com/user-attachments/assets/8809b040-175b-4100-ad0e-4b2806731954)
+![image](https://github.com/user-attachments/assets/e1b90cda-0b00-4ac7-8d74-07df56df7c2c)
+![image](https://github.com/user-attachments/assets/ddd8981d-b311-4268-bd40-dc2bdb315d0d)
+![image](https://github.com/user-attachments/assets/7bdf15a6-f9b2-43a3-8eb5-8c54ebe48ae8)
+
+- 2026/01/24 - 室內裝修/工程圍籬拆除整理
 ![image](https://github.com/user-attachments/assets/fd71211d-c773-43fa-b14e-abc41f591264)
 ![image](https://github.com/user-attachments/assets/f610d2aa-1a4d-41be-b96b-f4c730677356)
 ![image](https://github.com/user-attachments/assets/20bf5464-a3df-4884-b9cb-72cbbb75f9fb)
