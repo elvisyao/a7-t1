@@ -4,9 +4,10 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2026/02/05更新)
+### 目前進度 (2026/02/07更新)
 
 - 室內裝修/申請使照/圍籬拆除整理
+- 3/20開始進行對保作業
 
 ---
 ### 相關資訊連結
@@ -133,6 +134,8 @@
 ---
 ### 工程款繳費進度
 
+  * 暫收款帳戶
+    <img width="1032" height="557" alt="image" src="https://github.com/user-attachments/assets/c57c4d7c-c1e9-4efa-b196-b0a1e13df85c" />
   * 建商預售款信託帳戶  
 ![image](https://user-images.githubusercontent.com/19199144/173193745-52354ba0-40e3-4780-b4b1-e996453218f0.png)
   * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/ECDefault.aspx) > 新繳款人專區 > 預售屋價金信託查詢 > 群泰開發 > 5297 玄泰T1  
