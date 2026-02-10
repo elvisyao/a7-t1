@@ -4,10 +4,11 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2026/02/07更新)
+### 目前進度 (2026/02/10更新)
 
-- 室內裝修/申請使照/圍籬拆除整理
+- 室內裝修/申請使照/工程圍籬拆除
 - 3/20開始進行對保作業
+- 4月開始通知驗屋時程
 
 ---
 ### 相關資訊連結
@@ -29,6 +30,7 @@
   * [玄泰T1 - 臉書](https://www.facebook.com/skybluev1)
 
 - Youtube 空拍畫面
+  * [2025/11/03 - 玄泰T1 空拍 2025年10月](https://www.youtube.com/watch?v=dGRp0cv-I70)
   * [2024/05/07 - A7重劃區 玄泰T1 進度：18樓](https://www.youtube.com/watch?v=p3afMyjhNyk)
   * [2024/04/03 - 桃園龜山A7重劃區 - 2024最新4K影片](https://youtu.be/0fp1-5cHPEA?si=hAtxnQ8bP94dRlQ6)
   * [2023/10/25 - 桃園龜山A7重劃區 - 2023Q4最新4K影片](https://youtu.be/9pcvsF2cMf8?si=U4mJVg7jMT0KWdjJ)
@@ -134,8 +136,8 @@
 ---
 ### 工程款繳費進度
 
-  * 暫收款帳戶
-    <img width="1032" height="557" alt="image" src="https://github.com/user-attachments/assets/c57c4d7c-c1e9-4efa-b196-b0a1e13df85c" />
+  * 暫收款帳戶    
+    ![image](https://github.com/user-attachments/assets/c57c4d7c-c1e9-4efa-b196-b0a1e13df85c)
   * 建商預售款信託帳戶  
 ![image](https://user-images.githubusercontent.com/19199144/173193745-52354ba0-40e3-4780-b4b1-e996453218f0.png)
   * [土地銀行價金信託查詢](https://lbotpt.landbank.com.tw/ECDefault.aspx) > 新繳款人專區 > 預售屋價金信託查詢 > 群泰開發 > 5297 玄泰T1  
@@ -231,6 +233,10 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2026/02/10 - 室內裝修/工程圍籬拆除/通知對保
+![image](https://github.com/user-attachments/assets/de7745a8-eef2-44b6-b49d-337cfa432bea)
+![image](https://github.com/user-attachments/assets/1442642c-b03c-417e-a491-aa658c23fa6d)
 
 - 2026/02/05 - 室內裝修/工程圍籬拆除整理/通知對保
 ![image](https://github.com/user-attachments/assets/6ab8e8e9-9c9b-4657-ad11-5df2da79a632)
