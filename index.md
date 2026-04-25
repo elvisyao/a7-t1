@@ -4,10 +4,9 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2026/03/23更新)
+### 目前進度 (2026/04/25更新)
 
 - 使照申請
-- 3/20開始進行對保作業
 - 4/14開始驗屋
 
 ---
@@ -130,8 +129,10 @@
 - [x]  2026/02/07 拆除工程圍牆
 - [x]  2026/03/03 消檢
 - [x]  2026/03/20 開始對保
-- [ ]  2026/04/14 初驗
-- [ ]  2026/07 使照完成/複驗/交屋
+- [x]  2026/04/14 初驗
+- [ ]  2026/05/xx 複驗
+- [ ]  2026/06/xx 使照完成
+- [ ]  2026/07/xx 交屋
 
 ---
 ### 工程款繳費進度
@@ -233,6 +234,13 @@
 
 ---
 ### 工程進度影像紀錄
+
+- 2026/04/25 - 驗屋
+![image](https://github.com/user-attachments/assets/e5412c78-6b68-4e80-9a6e-42bfc3479e99)
+![image](https://github.com/user-attachments/assets/480fce4d-6c25-42bd-8a3b-15e075bc79af)
+![image](https://github.com/user-attachments/assets/33363790-191e-4457-b8db-317021c682a1)
+![image](https://github.com/user-attachments/assets/943f099b-8f73-4756-8a0c-aa1736f99692)
+![image](https://github.com/user-attachments/assets/f208829a-b57b-4e8c-893f-ad2c386c23d6)
 
 - 2026/03/23 - 對保/室內裝修
 ![image](https://github.com/user-attachments/assets/95a73b3d-85a1-47f8-b9b4-e27262d6d2d0)
