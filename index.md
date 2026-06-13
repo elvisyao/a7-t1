@@ -4,19 +4,19 @@
 若有資料錯誤, 或版權相關議題, 或違反任何法律事項, 請再告知並做後續處理, 感謝!
 
 ---
-### 目前進度 (2026/04/25更新)
+### 目前進度 (2026/06/13更新)
 
-- 使照申請
-- 4/14開始驗屋
+- 使照申請中
+- 07/04複驗
 
 ---
 ### 相關資訊連結
 
 - 周邊建案地圖  
-![image](https://github.com/user-attachments/assets/93e817c5-73b6-49e7-95ee-cab3df7d8ee2)
+![image](https://github.com/user-attachments/assets/6e002778-c142-4eb1-b599-c4f46a453779)
 
 - 地籍套繪  
-![image](https://github.com/user-attachments/assets/befdd2a6-6ad5-4b45-88a6-56d689cdaf34)
+![image](https://github.com/user-attachments/assets/c146daa3-7ea9-46e5-9936-a042c4599a62)
 
 - 門牌資訊 (2024/01/15)  
 ![image](https://github.com/user-attachments/assets/4df6256e-5845-4a40-ad7c-f48828d784f6)
@@ -130,8 +130,8 @@
 - [x]  2026/03/03 消檢
 - [x]  2026/03/20 開始對保
 - [x]  2026/04/14 初驗
-- [ ]  2026/05/xx 複驗
-- [ ]  2026/06/xx 使照完成
+- [ ]  2026/07/04 複驗
+- [ ]  2026/07/xx 使照完成
 - [ ]  2026/07/xx 交屋
 
 ---
